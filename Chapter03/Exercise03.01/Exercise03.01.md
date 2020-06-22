@@ -1,47 +1,70 @@
-# Exercise 03.01 | Reading Data on GitHub Users
+---
+jupyter:
+  jupytext:
+    formats: ipynb,md
+    text_representation:
+      extension: .md
+      format_name: markdown
+      format_version: '1.2'
+      jupytext_version: 1.4.0
+  kernelspec:
+    display_name: pandasworkshop
+    language: python
+    name: pandasworkshop
+---
 
-A user (Jaime Valero) made available a dataset on Kaggle about 17000 GitHub
-users and their programming language choices.
+<!-- #region -->
+# Exercise 03-01 | Gross domestic product
 
-Go to the Webpage, download the data and read it into a dataframe:
+The task: Find and load data on GDP.
 
-* [https://www.kaggle.com/jaimevalero/developers-and-programming-languages](https://www.kaggle.com/jaimevalero/developers-and-programming-languages)
 
-![](kaggle.png)
-
-Confirm that the dataframe has 17461 rows and 1411 columns.
-
-----
-
-# Discussion
-
-You will find the download is a zip file (with SHA1 229d934ce5edf1131e0378ec71b1af529363cfd0).
-
-```
-$ sha1sum developers-and-programming-languages.zip
-229d934ce5edf1131e0378ec71b1af529363cfd0  developers-and-programming-languages.zip
-```
-
-Unzip it, first.
-
-```
-$ unzip developers-and-programming-languages.zip
-```
-
-Import the pandas module.
+1. Load Pandas
+<!-- #endregion -->
 
 ```python
 import pandas as pd
 ```
 
-Then read the content into a DataFrame.
+2. Query a search engine
+
+Now we know about the "datapackage" format, let's see whether there exists a prepared dataset in this format (which would help us loading it).
+
+* [Duck Duck Go](https://duckduckgo.com/?q=gdp+datapackage)
+* [Google Search](https://www.google.com/search?q=gdp+datapackage)
+
+And indeed, we find the site: https://github.com/datasets/gdp as first or among the top results.
+
+3. Install "pandas-datapackage-reader" to access the datapackage format.
 
 ```python
-df = pd.read_csv("user-languages.csv")
+!pip install pandas-datapackage-reader
 ```
 
-Check, wether you go the complete dataset by checking its shape.
+4. Import the pandas datapackage adapter and load the JSON file from the GDP dataset repository.
 
 ```python
-df.shape
+import pandas_datapackage_reader as pdr
+```
+
+```python
+df = pdr.read_datapackage("https://raw.githubusercontent.com/datasets/gdp/master/datapackage.json")
+```
+
+5. Confirm the successful load of the data, by using head, tail and info.
+
+```python
+df.head()
+```
+
+```python
+df.tail()
+```
+
+```python
+df.info()
+```
+
+```python
+
 ```

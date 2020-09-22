@@ -1,0 +1,15 @@
+certifi==2020.6.20
+cycler==0.10.0
+joblib==0.16.0
+kiwisolver==1.2.0
+matplotlib==3.2.1
+numpy==1.15.4
+pandas==1.1.1
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+scikit-learn==0.23.2
+scipy==1.4.1
+seaborn==0.10.1
+six==1.15.0
+threadpoolctl==2.1.0

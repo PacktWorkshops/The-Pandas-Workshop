@@ -1,0 +1,59 @@
+Receipt Id,Date of Purchase,Product Name,Product Weight,Total Price,Retail shop name
+10001,24/05/20,Wheat,87,99,
+,05/05/20,,,25,Dello Superstore
+10003,27/04/20,Vegetables,19,37,Javies Retail
+10004,05/05/20,Oil,99,44,Javies Retail
+10005,,Wheat,30,,Javies Retail
+10006,14/01/20,Butter,79,34,Oldi Superstore
+10007,20/04/20,Oil,98,89,Dello Superstore
+10008,05/05/20,Wheat,67,36,Oldi Superstore
+10009,17/04/20,Fruits,35,30,Oldi Superstore
+10010,15/06/20,Oil,48,38,Kanes Store
+10011,17/06/20,Oil,37,59,Fline Store
+10012,11/06/20,Cheese,79,23,Fline Store
+10013,19/03/20,Rice,71,93,Kanes Store
+10014,01/01/20,Cheese,36,78,Fline Store
+10015,07/07/20,Fruit Juice,83,86,Oldi Superstore
+10016,29/04/20,Oil,47,93,Kelly Superstore
+10017,29/04/20,Butter,83,11,Oldi Superstore
+10018,23/02/20,Vegetables,98,80,Kelly Superstore
+10019,20/04/20,Cheese,32,66,Fline Store
+10020,12/04/20,Oil,18,28,Kelly Superstore
+10021,12/04/20,Butter,14,22,Oldi Superstore
+10022,29/04/20,Cheese,39,36,Kelly Superstore
+10023,24/05/20,Vegetables,75,2,Visco Retail
+10024,27/04/20,Vegetables,71,16,Kanes Store
+10025,07/07/20,Cheese,14,56,Fline Store
+10026,23/02/20,Rice,60,97,Rotero Retail
+10027,27/04/20,Butter,48,18,Kelly Superstore
+10028,07/07/20,Fruit Juice,29,40,
+10029,01/01/20,Butter,73,94,
+10030,,,49,35,
+10031,,,65,30,
+10032,,,52,94,
+10033,,,34,87,
+10034,,,46,23,
+10035,,,59,58,
+10036,,,46,18,
+10037,,,75,3,
+10038,,,60,55,
+10039,,,82,16,
+10040,,,88,38,Rotero Retail
+,15/06/20,Fruit Juice,73,74,Oldi Superstore
+,07/07/20,Vegetables,24,100,Rotero Retail
+,17/06/20,Fruits,45,31,Kanes Store
+,23/02/20,Wheat,37,89,Oldi Superstore
+,17/04/20,Fruit Juice,88,75,Kelly Superstore
+,14/01/20,Cheese,,,Kanes Store
+,14/01/20,Oil,,,Oldi Superstore
+,19/03/20,Wheat,,,Dello Superstore
+,12/04/20,Fruits,,,Fline Store
+,20/04/20,Vegetables,,,Oldi Superstore
+,29/04/20,Fruits,,,Rotero Retail
+,17/04/20,Cheese,52,85,Kanes Store
+,08/01/20,Bread,43,90,Kanes Store
+10054,08/01/20,Cheese,100,26,Fline Store
+10055,11/06/20,Fruit Juice,79,74,Kanes Store
+10056,24/05/20,Oil,28,30,Kelly Superstore
+10057,05/05/20,Wheat,82,12,Oldi Superstore
+10058,27/04/20,Bread,16,47,Visco Retail

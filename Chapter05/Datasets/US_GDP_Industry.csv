@@ -1,0 +1,2135 @@
+period,Industry,GDP
+2015_Q1,All industries,31917.8
+2015_Q2,All industries,32266.2
+2015_Q3,All industries,32406.6
+2015_Q4,All industries,32298.7
+2016_Q1,All industries,32303.8
+2016_Q2,All industries,32696.4
+2016_Q3,All industries,33070.7
+2016_Q4,All industries,33457.8
+2017_Q1,All industries,33984.6
+2017_Q2,All industries,34167.9
+2017_Q3,All industries,34490.9
+2017_Q4,All industries,35255.5
+2018_Q1,All industries,35838.6
+2018_Q2,All industries,36453.0
+2018_Q3,All industries,36916.7
+2018_Q4,All industries,37205.3
+2019_Q1,All industries,37377.9
+2019_Q2,All industries,37709.1
+2019_Q3,All industries,37991.1
+2019_Q4,All industries,38189.9
+2020_Q1,All industries,37826.8
+2020_Q2,All industries,34260.0
+2015_Q1,Private industries,28392.6
+2015_Q2,Private industries,28706.8
+2015_Q3,Private industries,28826.0
+2015_Q4,Private industries,28701.8
+2016_Q1,Private industries,28697.5
+2016_Q2,Private industries,29058.3
+2016_Q3,Private industries,29396.8
+2016_Q4,Private industries,29760.6
+2017_Q1,Private industries,30263.5
+2017_Q2,Private industries,30424.4
+2017_Q3,Private industries,30717.7
+2017_Q4,Private industries,31425.1
+2018_Q1,Private industries,31958.1
+2018_Q2,Private industries,32523.1
+2018_Q3,Private industries,32940.9
+2018_Q4,Private industries,33195.7
+2019_Q1,Private industries,33349.6
+2019_Q2,Private industries,33632.4
+2019_Q3,Private industries,33887.0
+2019_Q4,Private industries,34052.5
+2020_Q1,Private industries,33685.4
+2020_Q2,Private industries,30215.1
+2015_Q1,"Agriculture, forestry, fishing, and hunting",466.3
+2015_Q2,"Agriculture, forestry, fishing, and hunting",457.9
+2015_Q3,"Agriculture, forestry, fishing, and hunting",462.6
+2015_Q4,"Agriculture, forestry, fishing, and hunting",453.0
+2016_Q1,"Agriculture, forestry, fishing, and hunting",443.7
+2016_Q2,"Agriculture, forestry, fishing, and hunting",440.2
+2016_Q3,"Agriculture, forestry, fishing, and hunting",431.0
+2016_Q4,"Agriculture, forestry, fishing, and hunting",429.4
+2017_Q1,"Agriculture, forestry, fishing, and hunting",455.1
+2017_Q2,"Agriculture, forestry, fishing, and hunting",455.4
+2017_Q3,"Agriculture, forestry, fishing, and hunting",451.1
+2017_Q4,"Agriculture, forestry, fishing, and hunting",455.1
+2018_Q1,"Agriculture, forestry, fishing, and hunting",457.1
+2018_Q2,"Agriculture, forestry, fishing, and hunting",460.9
+2018_Q3,"Agriculture, forestry, fishing, and hunting",449.9
+2018_Q4,"Agriculture, forestry, fishing, and hunting",454.8
+2019_Q1,"Agriculture, forestry, fishing, and hunting",447.0
+2019_Q2,"Agriculture, forestry, fishing, and hunting",448.4
+2019_Q3,"Agriculture, forestry, fishing, and hunting",453.0
+2019_Q4,"Agriculture, forestry, fishing, and hunting",461.3
+2020_Q1,"Agriculture, forestry, fishing, and hunting",467.7
+2020_Q2,"Agriculture, forestry, fishing, and hunting",416.6
+2015_Q1,Farms,411.7
+2015_Q2,Farms,405.4
+2015_Q3,Farms,408.4
+2015_Q4,Farms,400.2
+2016_Q1,Farms,390.0
+2016_Q2,Farms,387.2
+2016_Q3,Farms,379.1
+2016_Q4,Farms,375.1
+2017_Q1,Farms,400.0
+2017_Q2,Farms,399.7
+2017_Q3,Farms,395.8
+2017_Q4,Farms,398.4
+2018_Q1,Farms,401.1
+2018_Q2,Farms,405.0
+2018_Q3,Farms,395.8
+2018_Q4,Farms,400.9
+2019_Q1,Farms,392.3
+2019_Q2,Farms,394.1
+2019_Q3,Farms,399.1
+2019_Q4,Farms,405.9
+2020_Q1,Farms,413.1
+2020_Q2,Farms,367.9
+2015_Q1,"Forestry, fishing, and related activities",54.6
+2015_Q2,"Forestry, fishing, and related activities",52.5
+2015_Q3,"Forestry, fishing, and related activities",54.2
+2015_Q4,"Forestry, fishing, and related activities",52.8
+2016_Q1,"Forestry, fishing, and related activities",53.7
+2016_Q2,"Forestry, fishing, and related activities",53.0
+2016_Q3,"Forestry, fishing, and related activities",51.8
+2016_Q4,"Forestry, fishing, and related activities",54.3
+2017_Q1,"Forestry, fishing, and related activities",55.1
+2017_Q2,"Forestry, fishing, and related activities",55.7
+2017_Q3,"Forestry, fishing, and related activities",55.3
+2017_Q4,"Forestry, fishing, and related activities",56.6
+2018_Q1,"Forestry, fishing, and related activities",56.0
+2018_Q2,"Forestry, fishing, and related activities",55.9
+2018_Q3,"Forestry, fishing, and related activities",54.1
+2018_Q4,"Forestry, fishing, and related activities",53.8
+2019_Q1,"Forestry, fishing, and related activities",54.6
+2019_Q2,"Forestry, fishing, and related activities",54.2
+2019_Q3,"Forestry, fishing, and related activities",53.9
+2019_Q4,"Forestry, fishing, and related activities",55.4
+2020_Q1,"Forestry, fishing, and related activities",54.6
+2020_Q2,"Forestry, fishing, and related activities",48.7
+2015_Q1,Mining,551.3
+2015_Q2,Mining,532.5
+2015_Q3,Mining,478.8
+2015_Q4,Mining,421.3
+2016_Q1,Mining,339.8
+2016_Q2,Mining,371.9
+2016_Q3,Mining,399.2
+2016_Q4,Mining,426.3
+2017_Q1,Mining,482.1
+2017_Q2,Mining,479.7
+2017_Q3,Mining,476.8
+2017_Q4,Mining,534.0
+2018_Q1,Mining,571.9
+2018_Q2,Mining,602.5
+2018_Q3,Mining,637.0
+2018_Q4,Mining,630.9
+2019_Q1,Mining,587.1
+2019_Q2,Mining,593.7
+2019_Q3,Mining,569.1
+2019_Q4,Mining,569.8
+2020_Q1,Mining,510.0
+2020_Q2,Mining,329.2
+2015_Q1,Oil and gas extraction,284.7
+2015_Q2,Oil and gas extraction,298.8
+2015_Q3,Oil and gas extraction,263.0
+2015_Q4,Oil and gas extraction,229.4
+2016_Q1,Oil and gas extraction,182.0
+2016_Q2,Oil and gas extraction,222.4
+2016_Q3,Oil and gas extraction,244.5
+2016_Q4,Oil and gas extraction,267.2
+2017_Q1,Oil and gas extraction,299.5
+2017_Q2,Oil and gas extraction,288.1
+2017_Q3,Oil and gas extraction,288.3
+2017_Q4,Oil and gas extraction,336.3
+2018_Q1,Oil and gas extraction,369.9
+2018_Q2,Oil and gas extraction,393.2
+2018_Q3,Oil and gas extraction,431.2
+2018_Q4,Oil and gas extraction,427.0
+2019_Q1,Oil and gas extraction,382.8
+2019_Q2,Oil and gas extraction,382.4
+2019_Q3,Oil and gas extraction,363.3
+2019_Q4,Oil and gas extraction,372.3
+2020_Q1,Oil and gas extraction,313.4
+2020_Q2,Oil and gas extraction,176.5
+2015_Q1,"Mining, except oil and gas",111.6
+2015_Q2,"Mining, except oil and gas",107.4
+2015_Q3,"Mining, except oil and gas",106.1
+2015_Q4,"Mining, except oil and gas",99.7
+2016_Q1,"Mining, except oil and gas",93.1
+2016_Q2,"Mining, except oil and gas",93.3
+2016_Q3,"Mining, except oil and gas",96.0
+2016_Q4,"Mining, except oil and gas",97.9
+2017_Q1,"Mining, except oil and gas",103.5
+2017_Q2,"Mining, except oil and gas",103.5
+2017_Q3,"Mining, except oil and gas",101.6
+2017_Q4,"Mining, except oil and gas",106.8
+2018_Q1,"Mining, except oil and gas",108.3
+2018_Q2,"Mining, except oil and gas",112.0
+2018_Q3,"Mining, except oil and gas",109.2
+2018_Q4,"Mining, except oil and gas",110.7
+2019_Q1,"Mining, except oil and gas",111.1
+2019_Q2,"Mining, except oil and gas",115.1
+2019_Q3,"Mining, except oil and gas",110.7
+2019_Q4,"Mining, except oil and gas",111.3
+2020_Q1,"Mining, except oil and gas",110.0
+2020_Q2,"Mining, except oil and gas",95.3
+2015_Q1,Support activities for mining,155.0
+2015_Q2,Support activities for mining,126.3
+2015_Q3,Support activities for mining,109.7
+2015_Q4,Support activities for mining,92.2
+2016_Q1,Support activities for mining,64.7
+2016_Q2,Support activities for mining,56.2
+2016_Q3,Support activities for mining,58.7
+2016_Q4,Support activities for mining,61.1
+2017_Q1,Support activities for mining,79.0
+2017_Q2,Support activities for mining,88.1
+2017_Q3,Support activities for mining,86.9
+2017_Q4,Support activities for mining,90.9
+2018_Q1,Support activities for mining,93.6
+2018_Q2,Support activities for mining,97.3
+2018_Q3,Support activities for mining,96.5
+2018_Q4,Support activities for mining,93.2
+2019_Q1,Support activities for mining,93.2
+2019_Q2,Support activities for mining,96.3
+2019_Q3,Support activities for mining,95.2
+2019_Q4,Support activities for mining,86.1
+2020_Q1,Support activities for mining,86.5
+2020_Q2,Support activities for mining,57.4
+2015_Q1,Utilities,546.5
+2015_Q2,Utilities,519.0
+2015_Q3,Utilities,506.7
+2015_Q4,Utilities,482.8
+2016_Q1,Utilities,469.1
+2016_Q2,Utilities,473.2
+2016_Q3,Utilities,487.4
+2016_Q4,Utilities,477.6
+2017_Q1,Utilities,471.0
+2017_Q2,Utilities,496.1
+2017_Q3,Utilities,482.6
+2017_Q4,Utilities,493.3
+2018_Q1,Utilities,514.4
+2018_Q2,Utilities,519.9
+2018_Q3,Utilities,511.2
+2018_Q4,Utilities,519.7
+2019_Q1,Utilities,514.3
+2019_Q2,Utilities,501.1
+2019_Q3,Utilities,500.1
+2019_Q4,Utilities,497.4
+2020_Q1,Utilities,481.2
+2020_Q2,Utilities,478.4
+2015_Q1,Construction,1321.7
+2015_Q2,Construction,1389.7
+2015_Q3,Construction,1412.3
+2015_Q4,Construction,1420.7
+2016_Q1,Construction,1453.4
+2016_Q2,Construction,1477.3
+2016_Q3,Construction,1501.6
+2016_Q4,Construction,1547.0
+2017_Q1,Construction,1565.9
+2017_Q2,Construction,1568.7
+2017_Q3,Construction,1562.8
+2017_Q4,Construction,1585.6
+2018_Q1,Construction,1621.0
+2018_Q2,Construction,1658.8
+2018_Q3,Construction,1659.6
+2018_Q4,Construction,1633.0
+2019_Q1,Construction,1667.4
+2019_Q2,Construction,1678.0
+2019_Q3,Construction,1695.8
+2019_Q4,Construction,1718.7
+2020_Q1,Construction,1775.9
+2020_Q2,Construction,1709.9
+2015_Q1,Manufacturing,5731.6
+2015_Q2,Manufacturing,5760.8
+2015_Q3,Manufacturing,5742.7
+2015_Q4,Manufacturing,5590.3
+2016_Q1,Manufacturing,5492.4
+2016_Q2,Manufacturing,5538.6
+2016_Q3,Manufacturing,5566.5
+2016_Q4,Manufacturing,5616.0
+2017_Q1,Manufacturing,5716.8
+2017_Q2,Manufacturing,5702.4
+2017_Q3,Manufacturing,5760.6
+2017_Q4,Manufacturing,5941.9
+2018_Q1,Manufacturing,6071.7
+2018_Q2,Manufacturing,6170.2
+2018_Q3,Manufacturing,6282.9
+2018_Q4,Manufacturing,6312.4
+2019_Q1,Manufacturing,6287.6
+2019_Q2,Manufacturing,6290.2
+2019_Q3,Manufacturing,6249.0
+2019_Q4,Manufacturing,6210.2
+2020_Q1,Manufacturing,6116.3
+2020_Q2,Manufacturing,5333.4
+2015_Q1,Durable goods,2908.7
+2015_Q2,Durable goods,2917.8
+2015_Q3,Durable goods,2920.6
+2015_Q4,Durable goods,2864.6
+2016_Q1,Durable goods,2843.2
+2016_Q2,Durable goods,2837.0
+2016_Q3,Durable goods,2848.3
+2016_Q4,Durable goods,2861.4
+2017_Q1,Durable goods,2883.1
+2017_Q2,Durable goods,2887.8
+2017_Q3,Durable goods,2928.4
+2017_Q4,Durable goods,3001.7
+2018_Q1,Durable goods,3059.6
+2018_Q2,Durable goods,3114.3
+2018_Q3,Durable goods,3196.5
+2018_Q4,Durable goods,3246.7
+2019_Q1,Durable goods,3269.4
+2019_Q2,Durable goods,3243.6
+2019_Q3,Durable goods,3222.5
+2019_Q4,Durable goods,3190.6
+2020_Q1,Durable goods,3126.1
+2020_Q2,Durable goods,2693.9
+2015_Q1,Wood products,100.4
+2015_Q2,Wood products,99.7
+2015_Q3,Wood products,101.9
+2015_Q4,Wood products,101.9
+2016_Q1,Wood products,103.9
+2016_Q2,Wood products,104.2
+2016_Q3,Wood products,105.1
+2016_Q4,Wood products,107.8
+2017_Q1,Wood products,112.0
+2017_Q2,Wood products,110.7
+2017_Q3,Wood products,110.1
+2017_Q4,Wood products,115.4
+2018_Q1,Wood products,119.6
+2018_Q2,Wood products,120.6
+2018_Q3,Wood products,122.1
+2018_Q4,Wood products,117.7
+2019_Q1,Wood products,117.7
+2019_Q2,Wood products,116.2
+2019_Q3,Wood products,117.6
+2019_Q4,Wood products,118.7
+2020_Q1,Wood products,118.7
+2020_Q2,Wood products,111.9
+2015_Q1,Nonmetallic mineral products,116.8
+2015_Q2,Nonmetallic mineral products,117.1
+2015_Q3,Nonmetallic mineral products,120.9
+2015_Q4,Nonmetallic mineral products,121.6
+2016_Q1,Nonmetallic mineral products,124.2
+2016_Q2,Nonmetallic mineral products,124.5
+2016_Q3,Nonmetallic mineral products,124.1
+2016_Q4,Nonmetallic mineral products,125.7
+2017_Q1,Nonmetallic mineral products,126.7
+2017_Q2,Nonmetallic mineral products,128.1
+2017_Q3,Nonmetallic mineral products,128.4
+2017_Q4,Nonmetallic mineral products,131.7
+2018_Q1,Nonmetallic mineral products,130.0
+2018_Q2,Nonmetallic mineral products,133.5
+2018_Q3,Nonmetallic mineral products,133.6
+2018_Q4,Nonmetallic mineral products,133.9
+2019_Q1,Nonmetallic mineral products,135.1
+2019_Q2,Nonmetallic mineral products,137.4
+2019_Q3,Nonmetallic mineral products,139.4
+2019_Q4,Nonmetallic mineral products,137.3
+2020_Q1,Nonmetallic mineral products,137.1
+2020_Q2,Nonmetallic mineral products,135.8
+2015_Q1,Primary metals,246.2
+2015_Q2,Primary metals,230.8
+2015_Q3,Primary metals,221.1
+2015_Q4,Primary metals,210.3
+2016_Q1,Primary metals,202.5
+2016_Q2,Primary metals,203.4
+2016_Q3,Primary metals,206.3
+2016_Q4,Primary metals,209.3
+2017_Q1,Primary metals,216.9
+2017_Q2,Primary metals,215.9
+2017_Q3,Primary metals,221.0
+2017_Q4,Primary metals,232.7
+2018_Q1,Primary metals,243.8
+2018_Q2,Primary metals,257.6
+2018_Q3,Primary metals,260.8
+2018_Q4,Primary metals,259.6
+2019_Q1,Primary metals,250.9
+2019_Q2,Primary metals,243.1
+2019_Q3,Primary metals,237.6
+2019_Q4,Primary metals,235.4
+2020_Q1,Primary metals,237.2
+2020_Q2,Primary metals,204.9
+2015_Q1,Fabricated metal products,362.0
+2015_Q2,Fabricated metal products,354.6
+2015_Q3,Fabricated metal products,350.6
+2015_Q4,Fabricated metal products,340.6
+2016_Q1,Fabricated metal products,341.5
+2016_Q2,Fabricated metal products,336.7
+2016_Q3,Fabricated metal products,336.1
+2016_Q4,Fabricated metal products,336.1
+2017_Q1,Fabricated metal products,335.9
+2017_Q2,Fabricated metal products,342.0
+2017_Q3,Fabricated metal products,347.0
+2017_Q4,Fabricated metal products,358.2
+2018_Q1,Fabricated metal products,368.1
+2018_Q2,Fabricated metal products,376.5
+2018_Q3,Fabricated metal products,378.6
+2018_Q4,Fabricated metal products,382.2
+2019_Q1,Fabricated metal products,389.0
+2019_Q2,Fabricated metal products,385.4
+2019_Q3,Fabricated metal products,386.0
+2019_Q4,Fabricated metal products,385.3
+2020_Q1,Fabricated metal products,382.2
+2020_Q2,Fabricated metal products,340.0
+2015_Q1,Machinery,384.7
+2015_Q2,Machinery,383.2
+2015_Q3,Machinery,381.3
+2015_Q4,Machinery,367.2
+2016_Q1,Machinery,356.6
+2016_Q2,Machinery,350.5
+2016_Q3,Machinery,344.6
+2016_Q4,Machinery,351.0
+2017_Q1,Machinery,355.6
+2017_Q2,Machinery,362.4
+2017_Q3,Machinery,369.0
+2017_Q4,Machinery,383.5
+2018_Q1,Machinery,393.8
+2018_Q2,Machinery,409.1
+2018_Q3,Machinery,415.8
+2018_Q4,Machinery,418.5
+2019_Q1,Machinery,421.1
+2019_Q2,Machinery,424.4
+2019_Q3,Machinery,419.1
+2019_Q4,Machinery,413.2
+2020_Q1,Machinery,409.2
+2020_Q2,Machinery,375.4
+2015_Q1,Computer and electronic products,344.4
+2015_Q2,Computer and electronic products,355.3
+2015_Q3,Computer and electronic products,349.4
+2015_Q4,Computer and electronic products,344.3
+2016_Q1,Computer and electronic products,336.9
+2016_Q2,Computer and electronic products,338.1
+2016_Q3,Computer and electronic products,343.6
+2016_Q4,Computer and electronic products,347.4
+2017_Q1,Computer and electronic products,348.3
+2017_Q2,Computer and electronic products,352.1
+2017_Q3,Computer and electronic products,359.4
+2017_Q4,Computer and electronic products,365.4
+2018_Q1,Computer and electronic products,368.5
+2018_Q2,Computer and electronic products,376.3
+2018_Q3,Computer and electronic products,378.5
+2018_Q4,Computer and electronic products,386.9
+2019_Q1,Computer and electronic products,385.1
+2019_Q2,Computer and electronic products,392.1
+2019_Q3,Computer and electronic products,391.7
+2019_Q4,Computer and electronic products,390.1
+2020_Q1,Computer and electronic products,394.4
+2020_Q2,Computer and electronic products,395.3
+2015_Q1,"Electrical equipment, appliances, and components",128.0
+2015_Q2,"Electrical equipment, appliances, and components",125.7
+2015_Q3,"Electrical equipment, appliances, and components",125.4
+2015_Q4,"Electrical equipment, appliances, and components",124.9
+2016_Q1,"Electrical equipment, appliances, and components",122.9
+2016_Q2,"Electrical equipment, appliances, and components",123.8
+2016_Q3,"Electrical equipment, appliances, and components",125.7
+2016_Q4,"Electrical equipment, appliances, and components",124.4
+2017_Q1,"Electrical equipment, appliances, and components",123.2
+2017_Q2,"Electrical equipment, appliances, and components",121.0
+2017_Q3,"Electrical equipment, appliances, and components",120.2
+2017_Q4,"Electrical equipment, appliances, and components",123.7
+2018_Q1,"Electrical equipment, appliances, and components",127.9
+2018_Q2,"Electrical equipment, appliances, and components",131.5
+2018_Q3,"Electrical equipment, appliances, and components",134.3
+2018_Q4,"Electrical equipment, appliances, and components",134.0
+2019_Q1,"Electrical equipment, appliances, and components",137.2
+2019_Q2,"Electrical equipment, appliances, and components",136.6
+2019_Q3,"Electrical equipment, appliances, and components",136.2
+2019_Q4,"Electrical equipment, appliances, and components",135.5
+2020_Q1,"Electrical equipment, appliances, and components",136.3
+2020_Q2,"Electrical equipment, appliances, and components",126.1
+2015_Q1,"Motor vehicles, bodies and trailers, and parts",655.1
+2015_Q2,"Motor vehicles, bodies and trailers, and parts",675.3
+2015_Q3,"Motor vehicles, bodies and trailers, and parts",696.3
+2015_Q4,"Motor vehicles, bodies and trailers, and parts",681.6
+2016_Q1,"Motor vehicles, bodies and trailers, and parts",694.9
+2016_Q2,"Motor vehicles, bodies and trailers, and parts",700.2
+2016_Q3,"Motor vehicles, bodies and trailers, and parts",704.5
+2016_Q4,"Motor vehicles, bodies and trailers, and parts",703.4
+2017_Q1,"Motor vehicles, bodies and trailers, and parts",704.0
+2017_Q2,"Motor vehicles, bodies and trailers, and parts",697.6
+2017_Q3,"Motor vehicles, bodies and trailers, and parts",688.5
+2017_Q4,"Motor vehicles, bodies and trailers, and parts",709.9
+2018_Q1,"Motor vehicles, bodies and trailers, and parts",723.4
+2018_Q2,"Motor vehicles, bodies and trailers, and parts",733.3
+2018_Q3,"Motor vehicles, bodies and trailers, and parts",765.9
+2018_Q4,"Motor vehicles, bodies and trailers, and parts",786.4
+2019_Q1,"Motor vehicles, bodies and trailers, and parts",791.4
+2019_Q2,"Motor vehicles, bodies and trailers, and parts",793.8
+2019_Q3,"Motor vehicles, bodies and trailers, and parts",795.2
+2019_Q4,"Motor vehicles, bodies and trailers, and parts",766.9
+2020_Q1,"Motor vehicles, bodies and trailers, and parts",716.6
+2020_Q2,"Motor vehicles, bodies and trailers, and parts",495.9
+2015_Q1,Other transportation equipment,333.2
+2015_Q2,Other transportation equipment,338.0
+2015_Q3,Other transportation equipment,333.6
+2015_Q4,Other transportation equipment,327.7
+2016_Q1,Other transportation equipment,316.7
+2016_Q2,Other transportation equipment,309.7
+2016_Q3,Other transportation equipment,318.4
+2016_Q4,Other transportation equipment,320.5
+2017_Q1,Other transportation equipment,326.9
+2017_Q2,Other transportation equipment,323.7
+2017_Q3,Other transportation equipment,348.4
+2017_Q4,Other transportation equipment,341.1
+2018_Q1,Other transportation equipment,339.8
+2018_Q2,Other transportation equipment,326.7
+2018_Q3,Other transportation equipment,357.5
+2018_Q4,Other transportation equipment,376.7
+2019_Q1,Other transportation equipment,389.0
+2019_Q2,Other transportation equipment,357.7
+2019_Q3,Other transportation equipment,343.8
+2019_Q4,Other transportation equipment,350.8
+2020_Q1,Other transportation equipment,336.0
+2020_Q2,Other transportation equipment,250.6
+2015_Q1,Furniture and related products,71.0
+2015_Q2,Furniture and related products,73.9
+2015_Q3,Furniture and related products,75.4
+2015_Q4,Furniture and related products,74.8
+2016_Q1,Furniture and related products,74.9
+2016_Q2,Furniture and related products,74.4
+2016_Q3,Furniture and related products,73.6
+2016_Q4,Furniture and related products,74.2
+2017_Q1,Furniture and related products,73.8
+2017_Q2,Furniture and related products,73.7
+2017_Q3,Furniture and related products,75.3
+2017_Q4,Furniture and related products,76.1
+2018_Q1,Furniture and related products,77.2
+2018_Q2,Furniture and related products,77.7
+2018_Q3,Furniture and related products,78.2
+2018_Q4,Furniture and related products,79.5
+2019_Q1,Furniture and related products,81.4
+2019_Q2,Furniture and related products,82.8
+2019_Q3,Furniture and related products,82.6
+2019_Q4,Furniture and related products,83.3
+2020_Q1,Furniture and related products,83.1
+2020_Q2,Furniture and related products,76.1
+2015_Q1,Miscellaneous manufacturing,166.6
+2015_Q2,Miscellaneous manufacturing,164.1
+2015_Q3,Miscellaneous manufacturing,164.7
+2015_Q4,Miscellaneous manufacturing,169.7
+2016_Q1,Miscellaneous manufacturing,168.1
+2016_Q2,Miscellaneous manufacturing,171.5
+2016_Q3,Miscellaneous manufacturing,166.2
+2016_Q4,Miscellaneous manufacturing,161.8
+2017_Q1,Miscellaneous manufacturing,159.7
+2017_Q2,Miscellaneous manufacturing,160.5
+2017_Q3,Miscellaneous manufacturing,161.2
+2017_Q4,Miscellaneous manufacturing,164.1
+2018_Q1,Miscellaneous manufacturing,167.6
+2018_Q2,Miscellaneous manufacturing,171.3
+2018_Q3,Miscellaneous manufacturing,171.2
+2018_Q4,Miscellaneous manufacturing,171.4
+2019_Q1,Miscellaneous manufacturing,171.6
+2019_Q2,Miscellaneous manufacturing,174.1
+2019_Q3,Miscellaneous manufacturing,173.2
+2019_Q4,Miscellaneous manufacturing,174.1
+2020_Q1,Miscellaneous manufacturing,175.2
+2020_Q2,Miscellaneous manufacturing,181.7
+2015_Q1,Nondurable goods,2822.9
+2015_Q2,Nondurable goods,2843.0
+2015_Q3,Nondurable goods,2822.0
+2015_Q4,Nondurable goods,2725.6
+2016_Q1,Nondurable goods,2649.2
+2016_Q2,Nondurable goods,2701.6
+2016_Q3,Nondurable goods,2718.2
+2016_Q4,Nondurable goods,2754.6
+2017_Q1,Nondurable goods,2833.7
+2017_Q2,Nondurable goods,2814.6
+2017_Q3,Nondurable goods,2832.3
+2017_Q4,Nondurable goods,2940.2
+2018_Q1,Nondurable goods,3012.1
+2018_Q2,Nondurable goods,3055.9
+2018_Q3,Nondurable goods,3086.4
+2018_Q4,Nondurable goods,3065.7
+2019_Q1,Nondurable goods,3018.2
+2019_Q2,Nondurable goods,3046.6
+2019_Q3,Nondurable goods,3026.4
+2019_Q4,Nondurable goods,3019.6
+2020_Q1,Nondurable goods,2990.2
+2020_Q2,Nondurable goods,2639.5
+2015_Q1,Food and beverage and tobacco products,949.3
+2015_Q2,Food and beverage and tobacco products,943.9
+2015_Q3,Food and beverage and tobacco products,948.3
+2015_Q4,Food and beverage and tobacco products,943.4
+2016_Q1,Food and beverage and tobacco products,933.4
+2016_Q2,Food and beverage and tobacco products,933.3
+2016_Q3,Food and beverage and tobacco products,940.1
+2016_Q4,Food and beverage and tobacco products,940.0
+2017_Q1,Food and beverage and tobacco products,948.4
+2017_Q2,Food and beverage and tobacco products,958.1
+2017_Q3,Food and beverage and tobacco products,955.6
+2017_Q4,Food and beverage and tobacco products,949.2
+2018_Q1,Food and beverage and tobacco products,954.0
+2018_Q2,Food and beverage and tobacco products,955.3
+2018_Q3,Food and beverage and tobacco products,959.8
+2018_Q4,Food and beverage and tobacco products,953.1
+2019_Q1,Food and beverage and tobacco products,964.7
+2019_Q2,Food and beverage and tobacco products,966.5
+2019_Q3,Food and beverage and tobacco products,977.0
+2019_Q4,Food and beverage and tobacco products,970.7
+2020_Q1,Food and beverage and tobacco products,975.6
+2020_Q2,Food and beverage and tobacco products,959.5
+2015_Q1,Textile mills and textile product mills,55.0
+2015_Q2,Textile mills and textile product mills,53.2
+2015_Q3,Textile mills and textile product mills,53.7
+2015_Q4,Textile mills and textile product mills,52.2
+2016_Q1,Textile mills and textile product mills,52.9
+2016_Q2,Textile mills and textile product mills,52.7
+2016_Q3,Textile mills and textile product mills,51.8
+2016_Q4,Textile mills and textile product mills,51.8
+2017_Q1,Textile mills and textile product mills,51.5
+2017_Q2,Textile mills and textile product mills,50.3
+2017_Q3,Textile mills and textile product mills,49.1
+2017_Q4,Textile mills and textile product mills,48.7
+2018_Q1,Textile mills and textile product mills,49.5
+2018_Q2,Textile mills and textile product mills,49.8
+2018_Q3,Textile mills and textile product mills,50.5
+2018_Q4,Textile mills and textile product mills,50.5
+2019_Q1,Textile mills and textile product mills,50.5
+2019_Q2,Textile mills and textile product mills,49.5
+2019_Q3,Textile mills and textile product mills,49.7
+2019_Q4,Textile mills and textile product mills,48.5
+2020_Q1,Textile mills and textile product mills,47.3
+2020_Q2,Textile mills and textile product mills,41.8
+2015_Q1,Apparel and leather and allied products,18.6
+2015_Q2,Apparel and leather and allied products,18.4
+2015_Q3,Apparel and leather and allied products,18.7
+2015_Q4,Apparel and leather and allied products,18.9
+2016_Q1,Apparel and leather and allied products,18.4
+2016_Q2,Apparel and leather and allied products,19.1
+2016_Q3,Apparel and leather and allied products,18.7
+2016_Q4,Apparel and leather and allied products,18.5
+2017_Q1,Apparel and leather and allied products,19.0
+2017_Q2,Apparel and leather and allied products,18.7
+2017_Q3,Apparel and leather and allied products,18.7
+2017_Q4,Apparel and leather and allied products,18.3
+2018_Q1,Apparel and leather and allied products,19.4
+2018_Q2,Apparel and leather and allied products,19.7
+2018_Q3,Apparel and leather and allied products,20.5
+2018_Q4,Apparel and leather and allied products,19.8
+2019_Q1,Apparel and leather and allied products,20.3
+2019_Q2,Apparel and leather and allied products,20.3
+2019_Q3,Apparel and leather and allied products,19.8
+2019_Q4,Apparel and leather and allied products,19.7
+2020_Q1,Apparel and leather and allied products,19.1
+2020_Q2,Apparel and leather and allied products,18.3
+2015_Q1,Paper products,182.7
+2015_Q2,Paper products,184.8
+2015_Q3,Paper products,182.5
+2015_Q4,Paper products,181.6
+2016_Q1,Paper products,180.5
+2016_Q2,Paper products,179.5
+2016_Q3,Paper products,177.0
+2016_Q4,Paper products,178.6
+2017_Q1,Paper products,178.6
+2017_Q2,Paper products,178.4
+2017_Q3,Paper products,179.9
+2017_Q4,Paper products,186.4
+2018_Q1,Paper products,186.8
+2018_Q2,Paper products,187.5
+2018_Q3,Paper products,188.7
+2018_Q4,Paper products,187.3
+2019_Q1,Paper products,188.8
+2019_Q2,Paper products,189.6
+2019_Q3,Paper products,189.8
+2019_Q4,Paper products,189.1
+2020_Q1,Paper products,189.8
+2020_Q2,Paper products,188.8
+2015_Q1,Printing and related support activities,81.9
+2015_Q2,Printing and related support activities,82.6
+2015_Q3,Printing and related support activities,81.9
+2015_Q4,Printing and related support activities,82.5
+2016_Q1,Printing and related support activities,83.6
+2016_Q2,Printing and related support activities,84.1
+2016_Q3,Printing and related support activities,85.2
+2016_Q4,Printing and related support activities,85.1
+2017_Q1,Printing and related support activities,85.2
+2017_Q2,Printing and related support activities,83.9
+2017_Q3,Printing and related support activities,84.2
+2017_Q4,Printing and related support activities,84.7
+2018_Q1,Printing and related support activities,85.9
+2018_Q2,Printing and related support activities,88.0
+2018_Q3,Printing and related support activities,87.0
+2018_Q4,Printing and related support activities,89.1
+2019_Q1,Printing and related support activities,89.1
+2019_Q2,Printing and related support activities,89.2
+2019_Q3,Printing and related support activities,92.3
+2019_Q4,Printing and related support activities,92.5
+2020_Q1,Printing and related support activities,92.9
+2020_Q2,Printing and related support activities,82.6
+2015_Q1,Petroleum and coal products,510.7
+2015_Q2,Petroleum and coal products,540.5
+2015_Q3,Petroleum and coal products,508.4
+2015_Q4,Petroleum and coal products,443.8
+2016_Q1,Petroleum and coal products,378.7
+2016_Q2,Petroleum and coal products,419.3
+2016_Q3,Petroleum and coal products,434.4
+2016_Q4,Petroleum and coal products,462.7
+2017_Q1,Petroleum and coal products,521.3
+2017_Q2,Petroleum and coal products,489.5
+2017_Q3,Petroleum and coal products,500.0
+2017_Q4,Petroleum and coal products,582.9
+2018_Q1,Petroleum and coal products,645.2
+2018_Q2,Petroleum and coal products,663.3
+2018_Q3,Petroleum and coal products,681.7
+2018_Q4,Petroleum and coal products,650.8
+2019_Q1,Petroleum and coal products,591.5
+2019_Q2,Petroleum and coal products,613.4
+2019_Q3,Petroleum and coal products,574.1
+2019_Q4,Petroleum and coal products,577.9
+2020_Q1,Petroleum and coal products,545.6
+2020_Q2,Petroleum and coal products,265.0
+2015_Q1,Chemical products,789.3
+2015_Q2,Chemical products,785.6
+2015_Q3,Chemical products,793.8
+2015_Q4,Chemical products,773.4
+2016_Q1,Chemical products,768.3
+2016_Q2,Chemical products,782.3
+2016_Q3,Chemical products,777.8
+2016_Q4,Chemical products,783.8
+2017_Q1,Chemical products,797.9
+2017_Q2,Chemical products,803.2
+2017_Q3,Chemical products,810.7
+2017_Q4,Chemical products,831.9
+2018_Q1,Chemical products,829.0
+2018_Q2,Chemical products,845.9
+2018_Q3,Chemical products,849.2
+2018_Q4,Chemical products,866.2
+2019_Q1,Chemical products,859.8
+2019_Q2,Chemical products,868.9
+2019_Q3,Chemical products,875.8
+2019_Q4,Chemical products,876.0
+2020_Q1,Chemical products,875.8
+2020_Q2,Chemical products,856.9
+2015_Q1,Plastics and rubber products,235.5
+2015_Q2,Plastics and rubber products,234.1
+2015_Q3,Plastics and rubber products,234.7
+2015_Q4,Plastics and rubber products,230.0
+2016_Q1,Plastics and rubber products,233.4
+2016_Q2,Plastics and rubber products,231.4
+2016_Q3,Plastics and rubber products,233.1
+2016_Q4,Plastics and rubber products,234.0
+2017_Q1,Plastics and rubber products,231.8
+2017_Q2,Plastics and rubber products,232.4
+2017_Q3,Plastics and rubber products,233.9
+2017_Q4,Plastics and rubber products,238.0
+2018_Q1,Plastics and rubber products,242.2
+2018_Q2,Plastics and rubber products,246.5
+2018_Q3,Plastics and rubber products,249.1
+2018_Q4,Plastics and rubber products,249.0
+2019_Q1,Plastics and rubber products,253.5
+2019_Q2,Plastics and rubber products,249.1
+2019_Q3,Plastics and rubber products,248.1
+2019_Q4,Plastics and rubber products,245.2
+2020_Q1,Plastics and rubber products,244.3
+2020_Q2,Plastics and rubber products,226.6
+2015_Q1,Wholesale trade,1839.1
+2015_Q2,Wholesale trade,1862.3
+2015_Q3,Wholesale trade,1857.3
+2015_Q4,Wholesale trade,1844.3
+2016_Q1,Wholesale trade,1814.6
+2016_Q2,Wholesale trade,1829.9
+2016_Q3,Wholesale trade,1841.6
+2016_Q4,Wholesale trade,1864.2
+2017_Q1,Wholesale trade,1894.9
+2017_Q2,Wholesale trade,1902.3
+2017_Q3,Wholesale trade,1927.3
+2017_Q4,Wholesale trade,1993.8
+2018_Q1,Wholesale trade,1993.6
+2018_Q2,Wholesale trade,2037.7
+2018_Q3,Wholesale trade,2058.4
+2018_Q4,Wholesale trade,2083.5
+2019_Q1,Wholesale trade,2083.4
+2019_Q2,Wholesale trade,2088.5
+2019_Q3,Wholesale trade,2098.1
+2019_Q4,Wholesale trade,2096.7
+2020_Q1,Wholesale trade,2074.6
+2020_Q2,Wholesale trade,1810.9
+2015_Q1,Retail trade,1616.2
+2015_Q2,Retail trade,1640.4
+2015_Q3,Retail trade,1659.8
+2015_Q4,Retail trade,1664.4
+2016_Q1,Retail trade,1681.3
+2016_Q2,Retail trade,1701.8
+2016_Q3,Retail trade,1715.8
+2016_Q4,Retail trade,1727.3
+2017_Q1,Retail trade,1747.9
+2017_Q2,Retail trade,1752.4
+2017_Q3,Retail trade,1772.0
+2017_Q4,Retail trade,1817.9
+2018_Q1,Retail trade,1843.6
+2018_Q2,Retail trade,1874.8
+2018_Q3,Retail trade,1887.6
+2018_Q4,Retail trade,1900.8
+2019_Q1,Retail trade,1915.2
+2019_Q2,Retail trade,1949.5
+2019_Q3,Retail trade,1972.6
+2019_Q4,Retail trade,1980.5
+2020_Q1,Retail trade,1960.1
+2020_Q2,Retail trade,1886.8
+2015_Q1,Motor vehicle and parts dealers,269.4
+2015_Q2,Motor vehicle and parts dealers,278.7
+2015_Q3,Motor vehicle and parts dealers,282.3
+2015_Q4,Motor vehicle and parts dealers,286.0
+2016_Q1,Motor vehicle and parts dealers,291.1
+2016_Q2,Motor vehicle and parts dealers,293.6
+2016_Q3,Motor vehicle and parts dealers,300.8
+2016_Q4,Motor vehicle and parts dealers,303.0
+2017_Q1,Motor vehicle and parts dealers,301.1
+2017_Q2,Motor vehicle and parts dealers,299.8
+2017_Q3,Motor vehicle and parts dealers,304.0
+2017_Q4,Motor vehicle and parts dealers,315.4
+2018_Q1,Motor vehicle and parts dealers,320.0
+2018_Q2,Motor vehicle and parts dealers,327.9
+2018_Q3,Motor vehicle and parts dealers,329.0
+2018_Q4,Motor vehicle and parts dealers,334.3
+2019_Q1,Motor vehicle and parts dealers,333.6
+2019_Q2,Motor vehicle and parts dealers,339.8
+2019_Q3,Motor vehicle and parts dealers,344.0
+2019_Q4,Motor vehicle and parts dealers,348.0
+2020_Q1,Motor vehicle and parts dealers,318.1
+2020_Q2,Motor vehicle and parts dealers,309.1
+2015_Q1,Food and beverage stores,227.4
+2015_Q2,Food and beverage stores,227.3
+2015_Q3,Food and beverage stores,228.7
+2015_Q4,Food and beverage stores,228.4
+2016_Q1,Food and beverage stores,229.2
+2016_Q2,Food and beverage stores,231.7
+2016_Q3,Food and beverage stores,232.8
+2016_Q4,Food and beverage stores,235.4
+2017_Q1,Food and beverage stores,238.5
+2017_Q2,Food and beverage stores,240.6
+2017_Q3,Food and beverage stores,241.6
+2017_Q4,Food and beverage stores,244.5
+2018_Q1,Food and beverage stores,244.2
+2018_Q2,Food and beverage stores,245.0
+2018_Q3,Food and beverage stores,245.6
+2018_Q4,Food and beverage stores,246.4
+2019_Q1,Food and beverage stores,248.6
+2019_Q2,Food and beverage stores,251.7
+2019_Q3,Food and beverage stores,255.7
+2019_Q4,Food and beverage stores,255.5
+2020_Q1,Food and beverage stores,278.3
+2020_Q2,Food and beverage stores,284.6
+2015_Q1,General merchandise stores,229.7
+2015_Q2,General merchandise stores,229.9
+2015_Q3,General merchandise stores,230.7
+2015_Q4,General merchandise stores,230.5
+2016_Q1,General merchandise stores,229.4
+2016_Q2,General merchandise stores,229.0
+2016_Q3,General merchandise stores,227.7
+2016_Q4,General merchandise stores,227.0
+2017_Q1,General merchandise stores,229.3
+2017_Q2,General merchandise stores,230.0
+2017_Q3,General merchandise stores,232.8
+2017_Q4,General merchandise stores,236.2
+2018_Q1,General merchandise stores,239.4
+2018_Q2,General merchandise stores,243.4
+2018_Q3,General merchandise stores,245.2
+2018_Q4,General merchandise stores,247.2
+2019_Q1,General merchandise stores,245.9
+2019_Q2,General merchandise stores,248.6
+2019_Q3,General merchandise stores,249.2
+2019_Q4,General merchandise stores,248.9
+2020_Q1,General merchandise stores,256.7
+2020_Q2,General merchandise stores,245.1
+2015_Q1,Other retail,889.7
+2015_Q2,Other retail,904.4
+2015_Q3,Other retail,918.1
+2015_Q4,Other retail,919.5
+2016_Q1,Other retail,931.7
+2016_Q2,Other retail,947.5
+2016_Q3,Other retail,954.5
+2016_Q4,Other retail,961.9
+2017_Q1,Other retail,979.0
+2017_Q2,Other retail,982.0
+2017_Q3,Other retail,993.6
+2017_Q4,Other retail,1021.8
+2018_Q1,Other retail,1040.0
+2018_Q2,Other retail,1058.6
+2018_Q3,Other retail,1067.8
+2018_Q4,Other retail,1072.9
+2019_Q1,Other retail,1087.1
+2019_Q2,Other retail,1109.4
+2019_Q3,Other retail,1123.8
+2019_Q4,Other retail,1128.2
+2020_Q1,Other retail,1107.0
+2020_Q2,Other retail,1048.0
+2015_Q1,Transportation and warehousing,1121.2
+2015_Q2,Transportation and warehousing,1118.8
+2015_Q3,Transportation and warehousing,1129.3
+2015_Q4,Transportation and warehousing,1112.8
+2016_Q1,Transportation and warehousing,1107.4
+2016_Q2,Transportation and warehousing,1111.3
+2016_Q3,Transportation and warehousing,1129.9
+2016_Q4,Transportation and warehousing,1146.3
+2017_Q1,Transportation and warehousing,1173.2
+2017_Q2,Transportation and warehousing,1187.0
+2017_Q3,Transportation and warehousing,1198.4
+2017_Q4,Transportation and warehousing,1215.1
+2018_Q1,Transportation and warehousing,1246.2
+2018_Q2,Transportation and warehousing,1279.9
+2018_Q3,Transportation and warehousing,1304.5
+2018_Q4,Transportation and warehousing,1329.5
+2019_Q1,Transportation and warehousing,1337.1
+2019_Q2,Transportation and warehousing,1346.8
+2019_Q3,Transportation and warehousing,1358.2
+2019_Q4,Transportation and warehousing,1370.1
+2020_Q1,Transportation and warehousing,1315.4
+2020_Q2,Transportation and warehousing,987.2
+2015_Q1,Air transportation,211.9
+2015_Q2,Air transportation,210.8
+2015_Q3,Air transportation,212.5
+2015_Q4,Air transportation,210.0
+2016_Q1,Air transportation,208.3
+2016_Q2,Air transportation,207.6
+2016_Q3,Air transportation,209.9
+2016_Q4,Air transportation,213.5
+2017_Q1,Air transportation,217.7
+2017_Q2,Air transportation,220.7
+2017_Q3,Air transportation,222.6
+2017_Q4,Air transportation,225.0
+2018_Q1,Air transportation,230.7
+2018_Q2,Air transportation,237.4
+2018_Q3,Air transportation,239.1
+2018_Q4,Air transportation,245.1
+2019_Q1,Air transportation,246.9
+2019_Q2,Air transportation,250.8
+2019_Q3,Air transportation,254.8
+2019_Q4,Air transportation,260.0
+2020_Q1,Air transportation,214.4
+2020_Q2,Air transportation,47.2
+2015_Q1,Rail transportation,86.5
+2015_Q2,Rail transportation,82.8
+2015_Q3,Rail transportation,81.6
+2015_Q4,Rail transportation,77.2
+2016_Q1,Rail transportation,74.6
+2016_Q2,Rail transportation,72.6
+2016_Q3,Rail transportation,75.4
+2016_Q4,Rail transportation,77.4
+2017_Q1,Rail transportation,79.3
+2017_Q2,Rail transportation,78.8
+2017_Q3,Rail transportation,76.9
+2017_Q4,Rail transportation,79.4
+2018_Q1,Rail transportation,83.0
+2018_Q2,Rail transportation,85.4
+2018_Q3,Rail transportation,86.3
+2018_Q4,Rail transportation,86.5
+2019_Q1,Rail transportation,85.0
+2019_Q2,Rail transportation,85.2
+2019_Q3,Rail transportation,83.3
+2019_Q4,Rail transportation,80.4
+2020_Q1,Rail transportation,81.4
+2020_Q2,Rail transportation,64.3
+2015_Q1,Water transportation,47.6
+2015_Q2,Water transportation,48.0
+2015_Q3,Water transportation,47.4
+2015_Q4,Water transportation,45.8
+2016_Q1,Water transportation,45.2
+2016_Q2,Water transportation,45.8
+2016_Q3,Water transportation,47.1
+2016_Q4,Water transportation,46.0
+2017_Q1,Water transportation,48.1
+2017_Q2,Water transportation,47.4
+2017_Q3,Water transportation,49.4
+2017_Q4,Water transportation,49.0
+2018_Q1,Water transportation,50.7
+2018_Q2,Water transportation,52.7
+2018_Q3,Water transportation,54.1
+2018_Q4,Water transportation,54.5
+2019_Q1,Water transportation,55.3
+2019_Q2,Water transportation,55.3
+2019_Q3,Water transportation,54.3
+2019_Q4,Water transportation,54.0
+2020_Q1,Water transportation,53.1
+2020_Q2,Water transportation,32.0
+2015_Q1,Truck transportation,329.5
+2015_Q2,Truck transportation,330.0
+2015_Q3,Truck transportation,338.2
+2015_Q4,Truck transportation,332.5
+2016_Q1,Truck transportation,327.3
+2016_Q2,Truck transportation,324.9
+2016_Q3,Truck transportation,327.5
+2016_Q4,Truck transportation,330.2
+2017_Q1,Truck transportation,342.6
+2017_Q2,Truck transportation,347.2
+2017_Q3,Truck transportation,349.8
+2017_Q4,Truck transportation,357.0
+2018_Q1,Truck transportation,368.1
+2018_Q2,Truck transportation,376.9
+2018_Q3,Truck transportation,381.4
+2018_Q4,Truck transportation,390.4
+2019_Q1,Truck transportation,387.1
+2019_Q2,Truck transportation,389.6
+2019_Q3,Truck transportation,392.1
+2019_Q4,Truck transportation,389.8
+2020_Q1,Truck transportation,389.4
+2020_Q2,Truck transportation,324.5
+2015_Q1,Transit and ground passenger transportation,64.6
+2015_Q2,Transit and ground passenger transportation,66.7
+2015_Q3,Transit and ground passenger transportation,65.7
+2015_Q4,Transit and ground passenger transportation,66.1
+2016_Q1,Transit and ground passenger transportation,67.9
+2016_Q2,Transit and ground passenger transportation,70.8
+2016_Q3,Transit and ground passenger transportation,73.2
+2016_Q4,Transit and ground passenger transportation,77.3
+2017_Q1,Transit and ground passenger transportation,80.1
+2017_Q2,Transit and ground passenger transportation,83.8
+2017_Q3,Transit and ground passenger transportation,89.4
+2017_Q4,Transit and ground passenger transportation,89.5
+2018_Q1,Transit and ground passenger transportation,90.5
+2018_Q2,Transit and ground passenger transportation,94.1
+2018_Q3,Transit and ground passenger transportation,98.2
+2018_Q4,Transit and ground passenger transportation,97.9
+2019_Q1,Transit and ground passenger transportation,102.0
+2019_Q2,Transit and ground passenger transportation,104.0
+2019_Q3,Transit and ground passenger transportation,109.0
+2019_Q4,Transit and ground passenger transportation,113.0
+2020_Q1,Transit and ground passenger transportation,103.0
+2020_Q2,Transit and ground passenger transportation,61.8
+2015_Q1,Pipeline transportation,43.5
+2015_Q2,Pipeline transportation,44.6
+2015_Q3,Pipeline transportation,43.7
+2015_Q4,Pipeline transportation,43.0
+2016_Q1,Pipeline transportation,42.9
+2016_Q2,Pipeline transportation,44.8
+2016_Q3,Pipeline transportation,44.7
+2016_Q4,Pipeline transportation,45.2
+2017_Q1,Pipeline transportation,45.5
+2017_Q2,Pipeline transportation,45.9
+2017_Q3,Pipeline transportation,46.5
+2017_Q4,Pipeline transportation,48.8
+2018_Q1,Pipeline transportation,50.4
+2018_Q2,Pipeline transportation,51.6
+2018_Q3,Pipeline transportation,53.7
+2018_Q4,Pipeline transportation,55.3
+2019_Q1,Pipeline transportation,56.4
+2019_Q2,Pipeline transportation,56.8
+2019_Q3,Pipeline transportation,58.7
+2019_Q4,Pipeline transportation,59.5
+2020_Q1,Pipeline transportation,60.1
+2020_Q2,Pipeline transportation,53.1
+2015_Q1,Other transportation and support activities,215.7
+2015_Q2,Other transportation and support activities,217.3
+2015_Q3,Other transportation and support activities,220.0
+2015_Q4,Other transportation and support activities,218.6
+2016_Q1,Other transportation and support activities,217.5
+2016_Q2,Other transportation and support activities,219.0
+2016_Q3,Other transportation and support activities,221.9
+2016_Q4,Other transportation and support activities,230.1
+2017_Q1,Other transportation and support activities,228.7
+2017_Q2,Other transportation and support activities,229.9
+2017_Q3,Other transportation and support activities,229.9
+2017_Q4,Other transportation and support activities,232.6
+2018_Q1,Other transportation and support activities,238.8
+2018_Q2,Other transportation and support activities,244.6
+2018_Q3,Other transportation and support activities,250.2
+2018_Q4,Other transportation and support activities,255.9
+2019_Q1,Other transportation and support activities,261.7
+2019_Q2,Other transportation and support activities,262.0
+2019_Q3,Other transportation and support activities,262.8
+2019_Q4,Other transportation and support activities,264.9
+2020_Q1,Other transportation and support activities,268.0
+2020_Q2,Other transportation and support activities,269.3
+2015_Q1,Warehousing and storage,121.9
+2015_Q2,Warehousing and storage,118.6
+2015_Q3,Warehousing and storage,120.3
+2015_Q4,Warehousing and storage,119.6
+2016_Q1,Warehousing and storage,123.6
+2016_Q2,Warehousing and storage,125.8
+2016_Q3,Warehousing and storage,130.2
+2016_Q4,Warehousing and storage,126.6
+2017_Q1,Warehousing and storage,131.2
+2017_Q2,Warehousing and storage,133.3
+2017_Q3,Warehousing and storage,133.9
+2017_Q4,Warehousing and storage,133.9
+2018_Q1,Warehousing and storage,134.0
+2018_Q2,Warehousing and storage,137.4
+2018_Q3,Warehousing and storage,141.5
+2018_Q4,Warehousing and storage,143.9
+2019_Q1,Warehousing and storage,142.9
+2019_Q2,Warehousing and storage,143.2
+2019_Q3,Warehousing and storage,143.2
+2019_Q4,Warehousing and storage,148.6
+2020_Q1,Warehousing and storage,146.0
+2020_Q2,Warehousing and storage,135.1
+2015_Q1,Information,1543.6
+2015_Q2,Information,1566.6
+2015_Q3,Information,1580.5
+2015_Q4,Information,1620.8
+2016_Q1,Information,1648.5
+2016_Q2,Information,1652.7
+2016_Q3,Information,1675.8
+2016_Q4,Information,1683.4
+2017_Q1,Information,1698.2
+2017_Q2,Information,1702.8
+2017_Q3,Information,1723.4
+2017_Q4,Information,1744.6
+2018_Q1,Information,1779.0
+2018_Q2,Information,1813.8
+2018_Q3,Information,1846.7
+2018_Q4,Information,1870.4
+2019_Q1,Information,1894.4
+2019_Q2,Information,1933.6
+2019_Q3,Information,1960.7
+2019_Q4,Information,1976.1
+2020_Q1,Information,1971.7
+2020_Q2,Information,1894.7
+2015_Q1,"Publishing industries, except internet (includes software)",321.8
+2015_Q2,"Publishing industries, except internet (includes software)",320.4
+2015_Q3,"Publishing industries, except internet (includes software)",319.0
+2015_Q4,"Publishing industries, except internet (includes software)",325.5
+2016_Q1,"Publishing industries, except internet (includes software)",331.2
+2016_Q2,"Publishing industries, except internet (includes software)",331.2
+2016_Q3,"Publishing industries, except internet (includes software)",333.2
+2016_Q4,"Publishing industries, except internet (includes software)",340.2
+2017_Q1,"Publishing industries, except internet (includes software)",341.6
+2017_Q2,"Publishing industries, except internet (includes software)",344.6
+2017_Q3,"Publishing industries, except internet (includes software)",351.5
+2017_Q4,"Publishing industries, except internet (includes software)",351.1
+2018_Q1,"Publishing industries, except internet (includes software)",357.1
+2018_Q2,"Publishing industries, except internet (includes software)",361.7
+2018_Q3,"Publishing industries, except internet (includes software)",367.8
+2018_Q4,"Publishing industries, except internet (includes software)",375.0
+2019_Q1,"Publishing industries, except internet (includes software)",387.7
+2019_Q2,"Publishing industries, except internet (includes software)",393.3
+2019_Q3,"Publishing industries, except internet (includes software)",403.7
+2019_Q4,"Publishing industries, except internet (includes software)",404.5
+2020_Q1,"Publishing industries, except internet (includes software)",410.6
+2020_Q2,"Publishing industries, except internet (includes software)",403.7
+2015_Q1,Motion picture and sound recording industries,138.7
+2015_Q2,Motion picture and sound recording industries,143.4
+2015_Q3,Motion picture and sound recording industries,143.0
+2015_Q4,Motion picture and sound recording industries,148.2
+2016_Q1,Motion picture and sound recording industries,155.7
+2016_Q2,Motion picture and sound recording industries,143.9
+2016_Q3,Motion picture and sound recording industries,151.2
+2016_Q4,Motion picture and sound recording industries,148.8
+2017_Q1,Motion picture and sound recording industries,156.6
+2017_Q2,Motion picture and sound recording industries,146.3
+2017_Q3,Motion picture and sound recording industries,149.0
+2017_Q4,Motion picture and sound recording industries,151.0
+2018_Q1,Motion picture and sound recording industries,156.8
+2018_Q2,Motion picture and sound recording industries,162.3
+2018_Q3,Motion picture and sound recording industries,161.8
+2018_Q4,Motion picture and sound recording industries,162.3
+2019_Q1,Motion picture and sound recording industries,160.6
+2019_Q2,Motion picture and sound recording industries,169.3
+2019_Q3,Motion picture and sound recording industries,166.6
+2019_Q4,Motion picture and sound recording industries,164.3
+2020_Q1,Motion picture and sound recording industries,150.1
+2020_Q2,Motion picture and sound recording industries,110.9
+2015_Q1,Broadcasting and telecommunications,806.5
+2015_Q2,Broadcasting and telecommunications,818.2
+2015_Q3,Broadcasting and telecommunications,823.1
+2015_Q4,Broadcasting and telecommunications,840.6
+2016_Q1,Broadcasting and telecommunications,849.4
+2016_Q2,Broadcasting and telecommunications,858.4
+2016_Q3,Broadcasting and telecommunications,867.4
+2016_Q4,Broadcasting and telecommunications,865.3
+2017_Q1,Broadcasting and telecommunications,854.9
+2017_Q2,Broadcasting and telecommunications,853.5
+2017_Q3,Broadcasting and telecommunications,850.0
+2017_Q4,Broadcasting and telecommunications,855.7
+2018_Q1,Broadcasting and telecommunications,866.2
+2018_Q2,Broadcasting and telecommunications,870.2
+2018_Q3,Broadcasting and telecommunications,887.5
+2018_Q4,Broadcasting and telecommunications,891.6
+2019_Q1,Broadcasting and telecommunications,897.9
+2019_Q2,Broadcasting and telecommunications,906.8
+2019_Q3,Broadcasting and telecommunications,909.2
+2019_Q4,Broadcasting and telecommunications,915.0
+2020_Q1,Broadcasting and telecommunications,911.7
+2020_Q2,Broadcasting and telecommunications,882.1
+2015_Q1,"Data processing, internet publishing, and other information services",276.6
+2015_Q2,"Data processing, internet publishing, and other information services",284.6
+2015_Q3,"Data processing, internet publishing, and other information services",295.5
+2015_Q4,"Data processing, internet publishing, and other information services",306.5
+2016_Q1,"Data processing, internet publishing, and other information services",312.1
+2016_Q2,"Data processing, internet publishing, and other information services",319.2
+2016_Q3,"Data processing, internet publishing, and other information services",324.0
+2016_Q4,"Data processing, internet publishing, and other information services",329.1
+2017_Q1,"Data processing, internet publishing, and other information services",345.0
+2017_Q2,"Data processing, internet publishing, and other information services",358.4
+2017_Q3,"Data processing, internet publishing, and other information services",372.9
+2017_Q4,"Data processing, internet publishing, and other information services",386.8
+2018_Q1,"Data processing, internet publishing, and other information services",399.0
+2018_Q2,"Data processing, internet publishing, and other information services",419.6
+2018_Q3,"Data processing, internet publishing, and other information services",429.7
+2018_Q4,"Data processing, internet publishing, and other information services",441.5
+2019_Q1,"Data processing, internet publishing, and other information services",448.2
+2019_Q2,"Data processing, internet publishing, and other information services",464.3
+2019_Q3,"Data processing, internet publishing, and other information services",481.1
+2019_Q4,"Data processing, internet publishing, and other information services",492.2
+2020_Q1,"Data processing, internet publishing, and other information services",499.2
+2020_Q2,"Data processing, internet publishing, and other information services",498.0
+2015_Q1,"Finance, insurance, real estate, rental, and leasing",5856.2
+2015_Q2,"Finance, insurance, real estate, rental, and leasing",5954.9
+2015_Q3,"Finance, insurance, real estate, rental, and leasing",5999.0
+2015_Q4,"Finance, insurance, real estate, rental, and leasing",6062.6
+2016_Q1,"Finance, insurance, real estate, rental, and leasing",6105.6
+2016_Q2,"Finance, insurance, real estate, rental, and leasing",6214.8
+2016_Q3,"Finance, insurance, real estate, rental, and leasing",6304.7
+2016_Q4,"Finance, insurance, real estate, rental, and leasing",6367.4
+2017_Q1,"Finance, insurance, real estate, rental, and leasing",6442.9
+2017_Q2,"Finance, insurance, real estate, rental, and leasing",6512.3
+2017_Q3,"Finance, insurance, real estate, rental, and leasing",6602.7
+2017_Q4,"Finance, insurance, real estate, rental, and leasing",6731.8
+2018_Q1,"Finance, insurance, real estate, rental, and leasing",6849.9
+2018_Q2,"Finance, insurance, real estate, rental, and leasing",6928.2
+2018_Q3,"Finance, insurance, real estate, rental, and leasing",7013.2
+2018_Q4,"Finance, insurance, real estate, rental, and leasing",7095.3
+2019_Q1,"Finance, insurance, real estate, rental, and leasing",7165.5
+2019_Q2,"Finance, insurance, real estate, rental, and leasing",7251.6
+2019_Q3,"Finance, insurance, real estate, rental, and leasing",7353.7
+2019_Q4,"Finance, insurance, real estate, rental, and leasing",7401.8
+2020_Q1,"Finance, insurance, real estate, rental, and leasing",7471.8
+2020_Q2,"Finance, insurance, real estate, rental, and leasing",7316.3
+2015_Q1,Finance and insurance,2531.3
+2015_Q2,Finance and insurance,2577.8
+2015_Q3,Finance and insurance,2570.4
+2015_Q4,Finance and insurance,2592.4
+2016_Q1,Finance and insurance,2591.0
+2016_Q2,Finance and insurance,2644.6
+2016_Q3,Finance and insurance,2711.7
+2016_Q4,Finance and insurance,2729.3
+2017_Q1,Finance and insurance,2779.3
+2017_Q2,Finance and insurance,2827.1
+2017_Q3,Finance and insurance,2872.0
+2017_Q4,Finance and insurance,2940.5
+2018_Q1,Finance and insurance,2991.0
+2018_Q2,Finance and insurance,3011.4
+2018_Q3,Finance and insurance,3048.9
+2018_Q4,Finance and insurance,3094.6
+2019_Q1,Finance and insurance,3100.0
+2019_Q2,Finance and insurance,3141.7
+2019_Q3,Finance and insurance,3196.3
+2019_Q4,Finance and insurance,3190.8
+2020_Q1,Finance and insurance,3213.3
+2020_Q2,Finance and insurance,3214.8
+2015_Q1,"Federal Reserve banks, credit intermediation, and related activities",804.9
+2015_Q2,"Federal Reserve banks, credit intermediation, and related activities",816.5
+2015_Q3,"Federal Reserve banks, credit intermediation, and related activities",828.4
+2015_Q4,"Federal Reserve banks, credit intermediation, and related activities",817.0
+2016_Q1,"Federal Reserve banks, credit intermediation, and related activities",836.1
+2016_Q2,"Federal Reserve banks, credit intermediation, and related activities",858.9
+2016_Q3,"Federal Reserve banks, credit intermediation, and related activities",883.3
+2016_Q4,"Federal Reserve banks, credit intermediation, and related activities",895.1
+2017_Q1,"Federal Reserve banks, credit intermediation, and related activities",901.8
+2017_Q2,"Federal Reserve banks, credit intermediation, and related activities",926.5
+2017_Q3,"Federal Reserve banks, credit intermediation, and related activities",941.1
+2017_Q4,"Federal Reserve banks, credit intermediation, and related activities",959.2
+2018_Q1,"Federal Reserve banks, credit intermediation, and related activities",984.3
+2018_Q2,"Federal Reserve banks, credit intermediation, and related activities",996.0
+2018_Q3,"Federal Reserve banks, credit intermediation, and related activities",1011.5
+2018_Q4,"Federal Reserve banks, credit intermediation, and related activities",1041.1
+2019_Q1,"Federal Reserve banks, credit intermediation, and related activities",1028.9
+2019_Q2,"Federal Reserve banks, credit intermediation, and related activities",1025.1
+2019_Q3,"Federal Reserve banks, credit intermediation, and related activities",1045.4
+2019_Q4,"Federal Reserve banks, credit intermediation, and related activities",1037.8
+2020_Q1,"Federal Reserve banks, credit intermediation, and related activities",1025.5
+2020_Q2,"Federal Reserve banks, credit intermediation, and related activities",1057.8
+2015_Q1,"Securities, commodity contracts, and investments",572.7
+2015_Q2,"Securities, commodity contracts, and investments",581.2
+2015_Q3,"Securities, commodity contracts, and investments",565.4
+2015_Q4,"Securities, commodity contracts, and investments",553.6
+2016_Q1,"Securities, commodity contracts, and investments",548.4
+2016_Q2,"Securities, commodity contracts, and investments",568.3
+2016_Q3,"Securities, commodity contracts, and investments",593.9
+2016_Q4,"Securities, commodity contracts, and investments",592.8
+2017_Q1,"Securities, commodity contracts, and investments",606.9
+2017_Q2,"Securities, commodity contracts, and investments",607.3
+2017_Q3,"Securities, commodity contracts, and investments",617.0
+2017_Q4,"Securities, commodity contracts, and investments",637.9
+2018_Q1,"Securities, commodity contracts, and investments",648.9
+2018_Q2,"Securities, commodity contracts, and investments",642.2
+2018_Q3,"Securities, commodity contracts, and investments",649.8
+2018_Q4,"Securities, commodity contracts, and investments",656.9
+2019_Q1,"Securities, commodity contracts, and investments",653.9
+2019_Q2,"Securities, commodity contracts, and investments",686.2
+2019_Q3,"Securities, commodity contracts, and investments",686.1
+2019_Q4,"Securities, commodity contracts, and investments",683.0
+2020_Q1,"Securities, commodity contracts, and investments",689.8
+2020_Q2,"Securities, commodity contracts, and investments",680.1
+2015_Q1,Insurance carriers and related activities,994.4
+2015_Q2,Insurance carriers and related activities,1014.7
+2015_Q3,Insurance carriers and related activities,1010.3
+2015_Q4,Insurance carriers and related activities,1058.5
+2016_Q1,Insurance carriers and related activities,1049.1
+2016_Q2,Insurance carriers and related activities,1061.7
+2016_Q3,Insurance carriers and related activities,1079.2
+2016_Q4,Insurance carriers and related activities,1087.0
+2017_Q1,Insurance carriers and related activities,1115.3
+2017_Q2,Insurance carriers and related activities,1136.2
+2017_Q3,Insurance carriers and related activities,1156.2
+2017_Q4,Insurance carriers and related activities,1184.6
+2018_Q1,Insurance carriers and related activities,1198.4
+2018_Q2,Insurance carriers and related activities,1215.0
+2018_Q3,Insurance carriers and related activities,1227.7
+2018_Q4,Insurance carriers and related activities,1236.8
+2019_Q1,Insurance carriers and related activities,1256.1
+2019_Q2,Insurance carriers and related activities,1264.0
+2019_Q3,Insurance carriers and related activities,1295.1
+2019_Q4,Insurance carriers and related activities,1297.1
+2020_Q1,Insurance carriers and related activities,1321.6
+2020_Q2,Insurance carriers and related activities,1304.7
+2015_Q1,"Funds, trusts, and other financial vehicles",159.3
+2015_Q2,"Funds, trusts, and other financial vehicles",165.4
+2015_Q3,"Funds, trusts, and other financial vehicles",166.2
+2015_Q4,"Funds, trusts, and other financial vehicles",163.3
+2016_Q1,"Funds, trusts, and other financial vehicles",157.4
+2016_Q2,"Funds, trusts, and other financial vehicles",155.7
+2016_Q3,"Funds, trusts, and other financial vehicles",155.2
+2016_Q4,"Funds, trusts, and other financial vehicles",154.4
+2017_Q1,"Funds, trusts, and other financial vehicles",155.4
+2017_Q2,"Funds, trusts, and other financial vehicles",157.1
+2017_Q3,"Funds, trusts, and other financial vehicles",157.7
+2017_Q4,"Funds, trusts, and other financial vehicles",158.8
+2018_Q1,"Funds, trusts, and other financial vehicles",159.4
+2018_Q2,"Funds, trusts, and other financial vehicles",158.2
+2018_Q3,"Funds, trusts, and other financial vehicles",159.9
+2018_Q4,"Funds, trusts, and other financial vehicles",159.9
+2019_Q1,"Funds, trusts, and other financial vehicles",161.1
+2019_Q2,"Funds, trusts, and other financial vehicles",166.4
+2019_Q3,"Funds, trusts, and other financial vehicles",169.7
+2019_Q4,"Funds, trusts, and other financial vehicles",172.9
+2020_Q1,"Funds, trusts, and other financial vehicles",176.4
+2020_Q2,"Funds, trusts, and other financial vehicles",172.2
+2015_Q1,Real estate and rental and leasing,3324.9
+2015_Q2,Real estate and rental and leasing,3377.0
+2015_Q3,Real estate and rental and leasing,3428.7
+2015_Q4,Real estate and rental and leasing,3470.1
+2016_Q1,Real estate and rental and leasing,3514.6
+2016_Q2,Real estate and rental and leasing,3570.2
+2016_Q3,Real estate and rental and leasing,3593.0
+2016_Q4,Real estate and rental and leasing,3638.1
+2017_Q1,Real estate and rental and leasing,3663.6
+2017_Q2,Real estate and rental and leasing,3685.2
+2017_Q3,Real estate and rental and leasing,3730.6
+2017_Q4,Real estate and rental and leasing,3791.3
+2018_Q1,Real estate and rental and leasing,3858.9
+2018_Q2,Real estate and rental and leasing,3916.8
+2018_Q3,Real estate and rental and leasing,3964.3
+2018_Q4,Real estate and rental and leasing,4000.7
+2019_Q1,Real estate and rental and leasing,4065.4
+2019_Q2,Real estate and rental and leasing,4110.0
+2019_Q3,Real estate and rental and leasing,4157.5
+2019_Q4,Real estate and rental and leasing,4211.0
+2020_Q1,Real estate and rental and leasing,4258.5
+2020_Q2,Real estate and rental and leasing,4101.5
+2015_Q1,Real estate,2992.5
+2015_Q2,Real estate,3049.1
+2015_Q3,Real estate,3101.0
+2015_Q4,Real estate,3141.0
+2016_Q1,Real estate,3184.2
+2016_Q2,Real estate,3232.9
+2016_Q3,Real estate,3264.6
+2016_Q4,Real estate,3301.8
+2017_Q1,Real estate,3324.8
+2017_Q2,Real estate,3350.6
+2017_Q3,Real estate,3388.4
+2017_Q4,Real estate,3438.2
+2018_Q1,Real estate,3494.8
+2018_Q2,Real estate,3543.2
+2018_Q3,Real estate,3589.2
+2018_Q4,Real estate,3623.9
+2019_Q1,Real estate,3683.9
+2019_Q2,Real estate,3723.3
+2019_Q3,Real estate,3764.5
+2019_Q4,Real estate,3821.4
+2020_Q1,Real estate,3878.5
+2020_Q2,Real estate,3813.1
+2015_Q1,Housing,1903.0
+2015_Q2,Housing,1934.3
+2015_Q3,Housing,1963.3
+2015_Q4,Housing,1987.3
+2016_Q1,Housing,2010.3
+2016_Q2,Housing,2035.1
+2016_Q3,Housing,2059.6
+2016_Q4,Housing,2086.0
+2017_Q1,Housing,2110.6
+2017_Q2,Housing,2131.5
+2017_Q3,Housing,2154.5
+2017_Q4,Housing,2176.9
+2018_Q1,Housing,2197.4
+2018_Q2,Housing,2219.7
+2018_Q3,Housing,2243.2
+2018_Q4,Housing,2268.4
+2019_Q1,Housing,2296.9
+2019_Q2,Housing,2327.5
+2019_Q3,Housing,2354.1
+2019_Q4,Housing,2378.0
+2020_Q1,Housing,2406.3
+2020_Q2,Housing,2427.1
+2015_Q1,Other real estate,1089.5
+2015_Q2,Other real estate,1114.8
+2015_Q3,Other real estate,1137.6
+2015_Q4,Other real estate,1153.7
+2016_Q1,Other real estate,1173.9
+2016_Q2,Other real estate,1197.8
+2016_Q3,Other real estate,1205.0
+2016_Q4,Other real estate,1215.8
+2017_Q1,Other real estate,1214.2
+2017_Q2,Other real estate,1219.0
+2017_Q3,Other real estate,1233.9
+2017_Q4,Other real estate,1261.3
+2018_Q1,Other real estate,1297.4
+2018_Q2,Other real estate,1323.5
+2018_Q3,Other real estate,1346.0
+2018_Q4,Other real estate,1355.5
+2019_Q1,Other real estate,1387.0
+2019_Q2,Other real estate,1395.8
+2019_Q3,Other real estate,1410.3
+2019_Q4,Other real estate,1443.4
+2020_Q1,Other real estate,1472.2
+2020_Q2,Other real estate,1386.1
+2015_Q1,Rental and leasing services and lessors of intangible assets,332.4
+2015_Q2,Rental and leasing services and lessors of intangible assets,327.9
+2015_Q3,Rental and leasing services and lessors of intangible assets,327.7
+2015_Q4,Rental and leasing services and lessors of intangible assets,329.2
+2016_Q1,Rental and leasing services and lessors of intangible assets,330.4
+2016_Q2,Rental and leasing services and lessors of intangible assets,337.3
+2016_Q3,Rental and leasing services and lessors of intangible assets,328.4
+2016_Q4,Rental and leasing services and lessors of intangible assets,336.3
+2017_Q1,Rental and leasing services and lessors of intangible assets,338.8
+2017_Q2,Rental and leasing services and lessors of intangible assets,334.6
+2017_Q3,Rental and leasing services and lessors of intangible assets,342.3
+2017_Q4,Rental and leasing services and lessors of intangible assets,353.2
+2018_Q1,Rental and leasing services and lessors of intangible assets,364.1
+2018_Q2,Rental and leasing services and lessors of intangible assets,373.6
+2018_Q3,Rental and leasing services and lessors of intangible assets,375.1
+2018_Q4,Rental and leasing services and lessors of intangible assets,376.8
+2019_Q1,Rental and leasing services and lessors of intangible assets,381.5
+2019_Q2,Rental and leasing services and lessors of intangible assets,386.6
+2019_Q3,Rental and leasing services and lessors of intangible assets,393.0
+2019_Q4,Rental and leasing services and lessors of intangible assets,389.6
+2020_Q1,Rental and leasing services and lessors of intangible assets,380.0
+2020_Q2,Rental and leasing services and lessors of intangible assets,288.4
+2015_Q1,Professional and business services,3413.3
+2015_Q2,Professional and business services,3450.2
+2015_Q3,Professional and business services,3489.5
+2015_Q4,Professional and business services,3481.2
+2016_Q1,Professional and business services,3530.0
+2016_Q2,Professional and business services,3578.1
+2016_Q3,Professional and business services,3629.0
+2016_Q4,Professional and business services,3689.3
+2017_Q1,Professional and business services,3767.6
+2017_Q2,Professional and business services,3799.5
+2017_Q3,Professional and business services,3842.0
+2017_Q4,Professional and business services,3933.5
+2018_Q1,Professional and business services,3977.0
+2018_Q2,Professional and business services,4051.8
+2018_Q3,Professional and business services,4100.9
+2018_Q4,Professional and business services,4148.8
+2019_Q1,Professional and business services,4192.1
+2019_Q2,Professional and business services,4243.9
+2019_Q3,Professional and business services,4319.3
+2019_Q4,Professional and business services,4352.0
+2020_Q1,Professional and business services,4333.3
+2020_Q2,Professional and business services,3948.0
+2015_Q1,"Professional, scientific, and technical services",1970.4
+2015_Q2,"Professional, scientific, and technical services",1995.9
+2015_Q3,"Professional, scientific, and technical services",2021.7
+2015_Q4,"Professional, scientific, and technical services",2008.7
+2016_Q1,"Professional, scientific, and technical services",2047.1
+2016_Q2,"Professional, scientific, and technical services",2064.1
+2016_Q3,"Professional, scientific, and technical services",2091.4
+2016_Q4,"Professional, scientific, and technical services",2133.6
+2017_Q1,"Professional, scientific, and technical services",2176.4
+2017_Q2,"Professional, scientific, and technical services",2186.5
+2017_Q3,"Professional, scientific, and technical services",2208.3
+2017_Q4,"Professional, scientific, and technical services",2258.1
+2018_Q1,"Professional, scientific, and technical services",2287.4
+2018_Q2,"Professional, scientific, and technical services",2337.2
+2018_Q3,"Professional, scientific, and technical services",2335.8
+2018_Q4,"Professional, scientific, and technical services",2363.6
+2019_Q1,"Professional, scientific, and technical services",2382.3
+2019_Q2,"Professional, scientific, and technical services",2422.6
+2019_Q3,"Professional, scientific, and technical services",2475.6
+2019_Q4,"Professional, scientific, and technical services",2484.7
+2020_Q1,"Professional, scientific, and technical services",2481.6
+2020_Q2,"Professional, scientific, and technical services",2241.8
+2015_Q1,Legal services,322.0
+2015_Q2,Legal services,332.9
+2015_Q3,Legal services,343.3
+2015_Q4,Legal services,327.4
+2016_Q1,Legal services,336.7
+2016_Q2,Legal services,336.1
+2016_Q3,Legal services,334.5
+2016_Q4,Legal services,351.5
+2017_Q1,Legal services,359.6
+2017_Q2,Legal services,358.1
+2017_Q3,Legal services,356.8
+2017_Q4,Legal services,370.3
+2018_Q1,Legal services,357.7
+2018_Q2,Legal services,372.3
+2018_Q3,Legal services,366.4
+2018_Q4,Legal services,364.1
+2019_Q1,Legal services,371.4
+2019_Q2,Legal services,368.7
+2019_Q3,Legal services,384.4
+2019_Q4,Legal services,385.1
+2020_Q1,Legal services,386.6
+2020_Q2,Legal services,361.5
+2015_Q1,Computer systems design and related services,382.2
+2015_Q2,Computer systems design and related services,379.2
+2015_Q3,Computer systems design and related services,381.2
+2015_Q4,Computer systems design and related services,384.3
+2016_Q1,Computer systems design and related services,395.6
+2016_Q2,Computer systems design and related services,406.2
+2016_Q3,Computer systems design and related services,414.0
+2016_Q4,Computer systems design and related services,413.5
+2017_Q1,Computer systems design and related services,423.5
+2017_Q2,Computer systems design and related services,432.8
+2017_Q3,Computer systems design and related services,431.9
+2017_Q4,Computer systems design and related services,440.6
+2018_Q1,Computer systems design and related services,451.5
+2018_Q2,Computer systems design and related services,466.4
+2018_Q3,Computer systems design and related services,473.2
+2018_Q4,Computer systems design and related services,484.5
+2019_Q1,Computer systems design and related services,479.9
+2019_Q2,Computer systems design and related services,490.7
+2019_Q3,Computer systems design and related services,496.4
+2019_Q4,Computer systems design and related services,498.1
+2020_Q1,Computer systems design and related services,501.6
+2020_Q2,Computer systems design and related services,473.5
+2015_Q1,"Miscellaneous professional, scientific, and technical services",1266.2
+2015_Q2,"Miscellaneous professional, scientific, and technical services",1283.8
+2015_Q3,"Miscellaneous professional, scientific, and technical services",1297.3
+2015_Q4,"Miscellaneous professional, scientific, and technical services",1297.0
+2016_Q1,"Miscellaneous professional, scientific, and technical services",1314.7
+2016_Q2,"Miscellaneous professional, scientific, and technical services",1321.8
+2016_Q3,"Miscellaneous professional, scientific, and technical services",1342.9
+2016_Q4,"Miscellaneous professional, scientific, and technical services",1368.6
+2017_Q1,"Miscellaneous professional, scientific, and technical services",1393.4
+2017_Q2,"Miscellaneous professional, scientific, and technical services",1395.6
+2017_Q3,"Miscellaneous professional, scientific, and technical services",1419.7
+2017_Q4,"Miscellaneous professional, scientific, and technical services",1447.3
+2018_Q1,"Miscellaneous professional, scientific, and technical services",1478.1
+2018_Q2,"Miscellaneous professional, scientific, and technical services",1498.5
+2018_Q3,"Miscellaneous professional, scientific, and technical services",1496.2
+2018_Q4,"Miscellaneous professional, scientific, and technical services",1515.0
+2019_Q1,"Miscellaneous professional, scientific, and technical services",1531.0
+2019_Q2,"Miscellaneous professional, scientific, and technical services",1563.3
+2019_Q3,"Miscellaneous professional, scientific, and technical services",1594.8
+2019_Q4,"Miscellaneous professional, scientific, and technical services",1601.5
+2020_Q1,"Miscellaneous professional, scientific, and technical services",1593.4
+2020_Q2,"Miscellaneous professional, scientific, and technical services",1406.8
+2015_Q1,Management of companies and enterprises,559.9
+2015_Q2,Management of companies and enterprises,562.4
+2015_Q3,Management of companies and enterprises,561.0
+2015_Q4,Management of companies and enterprises,563.5
+2016_Q1,Management of companies and enterprises,561.5
+2016_Q2,Management of companies and enterprises,564.4
+2016_Q3,Management of companies and enterprises,566.9
+2016_Q4,Management of companies and enterprises,572.9
+2017_Q1,Management of companies and enterprises,582.9
+2017_Q2,Management of companies and enterprises,592.4
+2017_Q3,Management of companies and enterprises,603.6
+2017_Q4,Management of companies and enterprises,630.7
+2018_Q1,Management of companies and enterprises,625.1
+2018_Q2,Management of companies and enterprises,625.1
+2018_Q3,Management of companies and enterprises,646.3
+2018_Q4,Management of companies and enterprises,646.0
+2019_Q1,Management of companies and enterprises,667.8
+2019_Q2,Management of companies and enterprises,673.3
+2019_Q3,Management of companies and enterprises,668.6
+2019_Q4,Management of companies and enterprises,673.2
+2020_Q1,Management of companies and enterprises,670.7
+2020_Q2,Management of companies and enterprises,651.2
+2015_Q1,Administrative and waste management services,883.0
+2015_Q2,Administrative and waste management services,891.9
+2015_Q3,Administrative and waste management services,906.7
+2015_Q4,Administrative and waste management services,909.0
+2016_Q1,Administrative and waste management services,921.4
+2016_Q2,Administrative and waste management services,949.6
+2016_Q3,Administrative and waste management services,970.8
+2016_Q4,Administrative and waste management services,982.8
+2017_Q1,Administrative and waste management services,1008.3
+2017_Q2,Administrative and waste management services,1020.6
+2017_Q3,Administrative and waste management services,1030.0
+2017_Q4,Administrative and waste management services,1044.7
+2018_Q1,Administrative and waste management services,1064.6
+2018_Q2,Administrative and waste management services,1089.5
+2018_Q3,Administrative and waste management services,1118.8
+2018_Q4,Administrative and waste management services,1139.1
+2019_Q1,Administrative and waste management services,1142.0
+2019_Q2,Administrative and waste management services,1148.0
+2019_Q3,Administrative and waste management services,1175.0
+2019_Q4,Administrative and waste management services,1194.1
+2020_Q1,Administrative and waste management services,1181.0
+2020_Q2,Administrative and waste management services,1055.0
+2015_Q1,Administrative and support services,795.7
+2015_Q2,Administrative and support services,802.4
+2015_Q3,Administrative and support services,816.1
+2015_Q4,Administrative and support services,817.2
+2016_Q1,Administrative and support services,828.2
+2016_Q2,Administrative and support services,855.9
+2016_Q3,Administrative and support services,875.3
+2016_Q4,Administrative and support services,884.8
+2017_Q1,Administrative and support services,908.1
+2017_Q2,Administrative and support services,919.4
+2017_Q3,Administrative and support services,928.1
+2017_Q4,Administrative and support services,941.5
+2018_Q1,Administrative and support services,958.9
+2018_Q2,Administrative and support services,984.8
+2018_Q3,Administrative and support services,1009.7
+2018_Q4,Administrative and support services,1027.2
+2019_Q1,Administrative and support services,1029.6
+2019_Q2,Administrative and support services,1033.4
+2019_Q3,Administrative and support services,1060.9
+2019_Q4,Administrative and support services,1080.5
+2020_Q1,Administrative and support services,1065.9
+2020_Q2,Administrative and support services,954.4
+2015_Q1,Waste management and remediation services,87.3
+2015_Q2,Waste management and remediation services,89.5
+2015_Q3,Waste management and remediation services,90.6
+2015_Q4,Waste management and remediation services,91.8
+2016_Q1,Waste management and remediation services,93.1
+2016_Q2,Waste management and remediation services,93.7
+2016_Q3,Waste management and remediation services,95.4
+2016_Q4,Waste management and remediation services,98.0
+2017_Q1,Waste management and remediation services,100.2
+2017_Q2,Waste management and remediation services,101.1
+2017_Q3,Waste management and remediation services,102.0
+2017_Q4,Waste management and remediation services,103.2
+2018_Q1,Waste management and remediation services,105.7
+2018_Q2,Waste management and remediation services,104.7
+2018_Q3,Waste management and remediation services,109.1
+2018_Q4,Waste management and remediation services,111.9
+2019_Q1,Waste management and remediation services,112.4
+2019_Q2,Waste management and remediation services,114.6
+2019_Q3,Waste management and remediation services,114.2
+2019_Q4,Waste management and remediation services,113.6
+2020_Q1,Waste management and remediation services,115.1
+2020_Q2,Waste management and remediation services,100.6
+2015_Q1,"Educational services, health care, and social assistance",2478.2
+2015_Q2,"Educational services, health care, and social assistance",2507.4
+2015_Q3,"Educational services, health care, and social assistance",2557.9
+2015_Q4,"Educational services, health care, and social assistance",2573.0
+2016_Q1,"Educational services, health care, and social assistance",2607.4
+2016_Q2,"Educational services, health care, and social assistance",2650.4
+2016_Q3,"Educational services, health care, and social assistance",2670.3
+2016_Q4,"Educational services, health care, and social assistance",2708.8
+2017_Q1,"Educational services, health care, and social assistance",2749.5
+2017_Q2,"Educational services, health care, and social assistance",2754.8
+2017_Q3,"Educational services, health care, and social assistance",2786.0
+2017_Q4,"Educational services, health care, and social assistance",2819.6
+2018_Q1,"Educational services, health care, and social assistance",2844.5
+2018_Q2,"Educational services, health care, and social assistance",2876.4
+2018_Q3,"Educational services, health care, and social assistance",2914.5
+2018_Q4,"Educational services, health care, and social assistance",2938.2
+2019_Q1,"Educational services, health care, and social assistance",2956.9
+2019_Q2,"Educational services, health care, and social assistance",2995.0
+2019_Q3,"Educational services, health care, and social assistance",3022.3
+2019_Q4,"Educational services, health care, and social assistance",3061.4
+2020_Q1,"Educational services, health care, and social assistance",3035.2
+2020_Q2,"Educational services, health care, and social assistance",2673.0
+2015_Q1,Educational services,337.0
+2015_Q2,Educational services,340.9
+2015_Q3,Educational services,341.5
+2015_Q4,Educational services,345.1
+2016_Q1,Educational services,346.6
+2016_Q2,Educational services,352.2
+2016_Q3,Educational services,351.4
+2016_Q4,Educational services,354.5
+2017_Q1,Educational services,358.3
+2017_Q2,Educational services,361.9
+2017_Q3,Educational services,364.7
+2017_Q4,Educational services,365.8
+2018_Q1,Educational services,367.1
+2018_Q2,Educational services,369.6
+2018_Q3,Educational services,374.1
+2018_Q4,Educational services,375.6
+2019_Q1,Educational services,379.6
+2019_Q2,Educational services,379.9
+2019_Q3,Educational services,385.2
+2019_Q4,Educational services,389.2
+2020_Q1,Educational services,386.7
+2020_Q2,Educational services,347.7
+2015_Q1,Health care and social assistance,2141.3
+2015_Q2,Health care and social assistance,2166.5
+2015_Q3,Health care and social assistance,2216.5
+2015_Q4,Health care and social assistance,2227.9
+2016_Q1,Health care and social assistance,2260.8
+2016_Q2,Health care and social assistance,2298.2
+2016_Q3,Health care and social assistance,2318.9
+2016_Q4,Health care and social assistance,2354.3
+2017_Q1,Health care and social assistance,2391.2
+2017_Q2,Health care and social assistance,2392.8
+2017_Q3,Health care and social assistance,2421.3
+2017_Q4,Health care and social assistance,2453.8
+2018_Q1,Health care and social assistance,2477.4
+2018_Q2,Health care and social assistance,2506.9
+2018_Q3,Health care and social assistance,2540.4
+2018_Q4,Health care and social assistance,2562.6
+2019_Q1,Health care and social assistance,2577.3
+2019_Q2,Health care and social assistance,2615.1
+2019_Q3,Health care and social assistance,2637.1
+2019_Q4,Health care and social assistance,2672.2
+2020_Q1,Health care and social assistance,2648.5
+2020_Q2,Health care and social assistance,2325.3
+2015_Q1,Ambulatory health care services,929.5
+2015_Q2,Ambulatory health care services,944.9
+2015_Q3,Ambulatory health care services,976.6
+2015_Q4,Ambulatory health care services,975.7
+2016_Q1,Ambulatory health care services,994.5
+2016_Q2,Ambulatory health care services,1007.8
+2016_Q3,Ambulatory health care services,1008.7
+2016_Q4,Ambulatory health care services,1026.8
+2017_Q1,Ambulatory health care services,1044.9
+2017_Q2,Ambulatory health care services,1049.1
+2017_Q3,Ambulatory health care services,1061.2
+2017_Q4,Ambulatory health care services,1070.5
+2018_Q1,Ambulatory health care services,1091.2
+2018_Q2,Ambulatory health care services,1096.2
+2018_Q3,Ambulatory health care services,1112.1
+2018_Q4,Ambulatory health care services,1118.3
+2019_Q1,Ambulatory health care services,1116.7
+2019_Q2,Ambulatory health care services,1137.1
+2019_Q3,Ambulatory health care services,1147.6
+2019_Q4,Ambulatory health care services,1166.7
+2020_Q1,Ambulatory health care services,1144.1
+2020_Q2,Ambulatory health care services,924.7
+2015_Q1,Hospitals,798.6
+2015_Q2,Hospitals,805.1
+2015_Q3,Hospitals,819.9
+2015_Q4,Hospitals,828.7
+2016_Q1,Hospitals,840.5
+2016_Q2,Hospitals,853.8
+2016_Q3,Hospitals,866.5
+2016_Q4,Hospitals,879.4
+2017_Q1,Hospitals,892.9
+2017_Q2,Hospitals,890.8
+2017_Q3,Hospitals,898.6
+2017_Q4,Hospitals,913.7
+2018_Q1,Hospitals,920.0
+2018_Q2,Hospitals,936.4
+2018_Q3,Hospitals,948.0
+2018_Q4,Hospitals,953.6
+2019_Q1,Hospitals,972.9
+2019_Q2,Hospitals,986.8
+2019_Q3,Hospitals,994.0
+2019_Q4,Hospitals,1004.8
+2020_Q1,Hospitals,992.9
+2020_Q2,Hospitals,933.7
+2015_Q1,Nursing and residential care facilities,226.7
+2015_Q2,Nursing and residential care facilities,229.9
+2015_Q3,Nursing and residential care facilities,232.2
+2015_Q4,Nursing and residential care facilities,234.1
+2016_Q1,Nursing and residential care facilities,233.7
+2016_Q2,Nursing and residential care facilities,240.4
+2016_Q3,Nursing and residential care facilities,241.7
+2016_Q4,Nursing and residential care facilities,245.0
+2017_Q1,Nursing and residential care facilities,242.6
+2017_Q2,Nursing and residential care facilities,243.2
+2017_Q3,Nursing and residential care facilities,249.2
+2017_Q4,Nursing and residential care facilities,255.7
+2018_Q1,Nursing and residential care facilities,250.4
+2018_Q2,Nursing and residential care facilities,255.4
+2018_Q3,Nursing and residential care facilities,257.1
+2018_Q4,Nursing and residential care facilities,258.3
+2019_Q1,Nursing and residential care facilities,260.4
+2019_Q2,Nursing and residential care facilities,259.8
+2019_Q3,Nursing and residential care facilities,261.6
+2019_Q4,Nursing and residential care facilities,267.2
+2020_Q1,Nursing and residential care facilities,270.2
+2020_Q2,Nursing and residential care facilities,259.5
+2015_Q1,Social assistance,186.4
+2015_Q2,Social assistance,186.6
+2015_Q3,Social assistance,187.8
+2015_Q4,Social assistance,189.5
+2016_Q1,Social assistance,192.1
+2016_Q2,Social assistance,196.2
+2016_Q3,Social assistance,201.9
+2016_Q4,Social assistance,203.1
+2017_Q1,Social assistance,210.8
+2017_Q2,Social assistance,209.7
+2017_Q3,Social assistance,212.3
+2017_Q4,Social assistance,213.9
+2018_Q1,Social assistance,215.9
+2018_Q2,Social assistance,218.8
+2018_Q3,Social assistance,223.2
+2018_Q4,Social assistance,232.3
+2019_Q1,Social assistance,227.4
+2019_Q2,Social assistance,231.4
+2019_Q3,Social assistance,234.0
+2019_Q4,Social assistance,233.5
+2020_Q1,Social assistance,241.2
+2020_Q2,Social assistance,207.4
+2015_Q1,"Arts, entertainment, recreation, accommodation, and food services",1274.1
+2015_Q2,"Arts, entertainment, recreation, accommodation, and food services",1301.0
+2015_Q3,"Arts, entertainment, recreation, accommodation, and food services",1306.0
+2015_Q4,"Arts, entertainment, recreation, accommodation, and food services",1327.1
+2016_Q1,"Arts, entertainment, recreation, accommodation, and food services",1342.1
+2016_Q2,"Arts, entertainment, recreation, accommodation, and food services",1350.1
+2016_Q3,"Arts, entertainment, recreation, accommodation, and food services",1365.7
+2016_Q4,"Arts, entertainment, recreation, accommodation, and food services",1391.2
+2017_Q1,"Arts, entertainment, recreation, accommodation, and food services",1413.2
+2017_Q2,"Arts, entertainment, recreation, accommodation, and food services",1424.5
+2017_Q3,"Arts, entertainment, recreation, accommodation, and food services",1438.2
+2017_Q4,"Arts, entertainment, recreation, accommodation, and food services",1448.6
+2018_Q1,"Arts, entertainment, recreation, accommodation, and food services",1468.4
+2018_Q2,"Arts, entertainment, recreation, accommodation, and food services",1508.9
+2018_Q3,"Arts, entertainment, recreation, accommodation, and food services",1526.8
+2018_Q4,"Arts, entertainment, recreation, accommodation, and food services",1526.5
+2019_Q1,"Arts, entertainment, recreation, accommodation, and food services",1548.5
+2019_Q2,"Arts, entertainment, recreation, accommodation, and food services",1565.0
+2019_Q3,"Arts, entertainment, recreation, accommodation, and food services",1577.0
+2019_Q4,"Arts, entertainment, recreation, accommodation, and food services",1583.8
+2020_Q1,"Arts, entertainment, recreation, accommodation, and food services",1428.9
+2020_Q2,"Arts, entertainment, recreation, accommodation, and food services",849.9
+2015_Q1,"Arts, entertainment, and recreation",300.5
+2015_Q2,"Arts, entertainment, and recreation",306.5
+2015_Q3,"Arts, entertainment, and recreation",303.4
+2015_Q4,"Arts, entertainment, and recreation",309.4
+2016_Q1,"Arts, entertainment, and recreation",311.8
+2016_Q2,"Arts, entertainment, and recreation",311.7
+2016_Q3,"Arts, entertainment, and recreation",318.4
+2016_Q4,"Arts, entertainment, and recreation",333.6
+2017_Q1,"Arts, entertainment, and recreation",333.4
+2017_Q2,"Arts, entertainment, and recreation",340.2
+2017_Q3,"Arts, entertainment, and recreation",352.0
+2017_Q4,"Arts, entertainment, and recreation",343.5
+2018_Q1,"Arts, entertainment, and recreation",348.6
+2018_Q2,"Arts, entertainment, and recreation",361.5
+2018_Q3,"Arts, entertainment, and recreation",367.2
+2018_Q4,"Arts, entertainment, and recreation",364.7
+2019_Q1,"Arts, entertainment, and recreation",377.6
+2019_Q2,"Arts, entertainment, and recreation",372.9
+2019_Q3,"Arts, entertainment, and recreation",374.5
+2019_Q4,"Arts, entertainment, and recreation",376.5
+2020_Q1,"Arts, entertainment, and recreation",340.4
+2020_Q2,"Arts, entertainment, and recreation",158.8
+2015_Q1,"Performing arts, spectator sports, museums, and related activities",165.6
+2015_Q2,"Performing arts, spectator sports, museums, and related activities",171.3
+2015_Q3,"Performing arts, spectator sports, museums, and related activities",168.3
+2015_Q4,"Performing arts, spectator sports, museums, and related activities",170.7
+2016_Q1,"Performing arts, spectator sports, museums, and related activities",171.8
+2016_Q2,"Performing arts, spectator sports, museums, and related activities",170.7
+2016_Q3,"Performing arts, spectator sports, museums, and related activities",177.2
+2016_Q4,"Performing arts, spectator sports, museums, and related activities",184.8
+2017_Q1,"Performing arts, spectator sports, museums, and related activities",185.5
+2017_Q2,"Performing arts, spectator sports, museums, and related activities",187.2
+2017_Q3,"Performing arts, spectator sports, museums, and related activities",195.4
+2017_Q4,"Performing arts, spectator sports, museums, and related activities",188.0
+2018_Q1,"Performing arts, spectator sports, museums, and related activities",188.5
+2018_Q2,"Performing arts, spectator sports, museums, and related activities",204.0
+2018_Q3,"Performing arts, spectator sports, museums, and related activities",205.5
+2018_Q4,"Performing arts, spectator sports, museums, and related activities",199.3
+2019_Q1,"Performing arts, spectator sports, museums, and related activities",212.1
+2019_Q2,"Performing arts, spectator sports, museums, and related activities",203.8
+2019_Q3,"Performing arts, spectator sports, museums, and related activities",206.7
+2019_Q4,"Performing arts, spectator sports, museums, and related activities",208.0
+2020_Q1,"Performing arts, spectator sports, museums, and related activities",185.2
+2020_Q2,"Performing arts, spectator sports, museums, and related activities",81.8
+2015_Q1,"Amusements, gambling, and recreation industries",134.9
+2015_Q2,"Amusements, gambling, and recreation industries",135.2
+2015_Q3,"Amusements, gambling, and recreation industries",135.1
+2015_Q4,"Amusements, gambling, and recreation industries",138.7
+2016_Q1,"Amusements, gambling, and recreation industries",140.1
+2016_Q2,"Amusements, gambling, and recreation industries",140.9
+2016_Q3,"Amusements, gambling, and recreation industries",141.2
+2016_Q4,"Amusements, gambling, and recreation industries",148.8
+2017_Q1,"Amusements, gambling, and recreation industries",147.8
+2017_Q2,"Amusements, gambling, and recreation industries",153.0
+2017_Q3,"Amusements, gambling, and recreation industries",156.6
+2017_Q4,"Amusements, gambling, and recreation industries",155.5
+2018_Q1,"Amusements, gambling, and recreation industries",160.0
+2018_Q2,"Amusements, gambling, and recreation industries",157.5
+2018_Q3,"Amusements, gambling, and recreation industries",161.6
+2018_Q4,"Amusements, gambling, and recreation industries",165.5
+2019_Q1,"Amusements, gambling, and recreation industries",165.5
+2019_Q2,"Amusements, gambling, and recreation industries",169.1
+2019_Q3,"Amusements, gambling, and recreation industries",167.9
+2019_Q4,"Amusements, gambling, and recreation industries",168.5
+2020_Q1,"Amusements, gambling, and recreation industries",155.2
+2020_Q2,"Amusements, gambling, and recreation industries",77.1
+2015_Q1,Accommodation and food services,973.6
+2015_Q2,Accommodation and food services,994.5
+2015_Q3,Accommodation and food services,1002.6
+2015_Q4,Accommodation and food services,1017.7
+2016_Q1,Accommodation and food services,1030.3
+2016_Q2,Accommodation and food services,1038.5
+2016_Q3,Accommodation and food services,1047.3
+2016_Q4,Accommodation and food services,1057.6
+2017_Q1,Accommodation and food services,1079.9
+2017_Q2,Accommodation and food services,1084.2
+2017_Q3,Accommodation and food services,1086.2
+2017_Q4,Accommodation and food services,1105.1
+2018_Q1,Accommodation and food services,1119.9
+2018_Q2,Accommodation and food services,1147.5
+2018_Q3,Accommodation and food services,1159.6
+2018_Q4,Accommodation and food services,1161.8
+2019_Q1,Accommodation and food services,1170.9
+2019_Q2,Accommodation and food services,1192.2
+2019_Q3,Accommodation and food services,1202.4
+2019_Q4,Accommodation and food services,1207.3
+2020_Q1,Accommodation and food services,1088.5
+2020_Q2,Accommodation and food services,691.1
+2015_Q1,Accommodation,256.2
+2015_Q2,Accommodation,257.8
+2015_Q3,Accommodation,259.5
+2015_Q4,Accommodation,261.1
+2016_Q1,Accommodation,265.0
+2016_Q2,Accommodation,268.4
+2016_Q3,Accommodation,271.7
+2016_Q4,Accommodation,270.2
+2017_Q1,Accommodation,274.7
+2017_Q2,Accommodation,273.7
+2017_Q3,Accommodation,273.4
+2017_Q4,Accommodation,275.7
+2018_Q1,Accommodation,275.5
+2018_Q2,Accommodation,286.4
+2018_Q3,Accommodation,283.2
+2018_Q4,Accommodation,292.2
+2019_Q1,Accommodation,291.3
+2019_Q2,Accommodation,295.6
+2019_Q3,Accommodation,297.1
+2019_Q4,Accommodation,297.5
+2020_Q1,Accommodation,251.5
+2020_Q2,Accommodation,98.9
+2015_Q1,Food services and drinking places,717.4
+2015_Q2,Food services and drinking places,736.8
+2015_Q3,Food services and drinking places,743.1
+2015_Q4,Food services and drinking places,756.6
+2016_Q1,Food services and drinking places,765.3
+2016_Q2,Food services and drinking places,770.1
+2016_Q3,Food services and drinking places,775.6
+2016_Q4,Food services and drinking places,787.3
+2017_Q1,Food services and drinking places,805.2
+2017_Q2,Food services and drinking places,810.5
+2017_Q3,Food services and drinking places,812.9
+2017_Q4,Food services and drinking places,829.4
+2018_Q1,Food services and drinking places,844.4
+2018_Q2,Food services and drinking places,861.0
+2018_Q3,Food services and drinking places,876.4
+2018_Q4,Food services and drinking places,869.6
+2019_Q1,Food services and drinking places,879.6
+2019_Q2,Food services and drinking places,896.6
+2019_Q3,Food services and drinking places,905.4
+2019_Q4,Food services and drinking places,909.8
+2020_Q1,Food services and drinking places,837.0
+2020_Q2,Food services and drinking places,592.2
+2015_Q1,"Other services, except government",633.3
+2015_Q2,"Other services, except government",645.4
+2015_Q3,"Other services, except government",643.4
+2015_Q4,"Other services, except government",647.6
+2016_Q1,"Other services, except government",662.2
+2016_Q2,"Other services, except government",667.9
+2016_Q3,"Other services, except government",678.5
+2016_Q4,"Other services, except government",686.5
+2017_Q1,"Other services, except government",685.3
+2017_Q2,"Other services, except government",686.6
+2017_Q3,"Other services, except government",693.7
+2017_Q4,"Other services, except government",710.2
+2018_Q1,"Other services, except government",719.9
+2018_Q2,"Other services, except government",739.2
+2018_Q3,"Other services, except government",747.6
+2018_Q4,"Other services, except government",752.0
+2019_Q1,"Other services, except government",753.0
+2019_Q2,"Other services, except government",747.1
+2019_Q3,"Other services, except government",758.1
+2019_Q4,"Other services, except government",772.5
+2020_Q1,"Other services, except government",743.4
+2020_Q2,"Other services, except government",580.9
+2015_Q1,Government,3525.2
+2015_Q2,Government,3559.4
+2015_Q3,Government,3580.5
+2015_Q4,Government,3596.9
+2016_Q1,Government,3606.3
+2016_Q2,Government,3638.2
+2016_Q3,Government,3673.9
+2016_Q4,Government,3697.1
+2017_Q1,Government,3721.1
+2017_Q2,Government,3743.5
+2017_Q3,Government,3773.2
+2017_Q4,Government,3830.4
+2018_Q1,Government,3880.5
+2018_Q2,Government,3930.0
+2018_Q3,Government,3975.8
+2018_Q4,Government,4009.6
+2019_Q1,Government,4028.3
+2019_Q2,Government,4076.7
+2019_Q3,Government,4104.1
+2019_Q4,Government,4137.4
+2020_Q1,Government,4141.4
+2020_Q2,Government,4044.9
+2015_Q1,Federal,1095.6
+2015_Q2,Federal,1097.2
+2015_Q3,Federal,1095.9
+2015_Q4,Federal,1102.0
+2016_Q1,Federal,1105.1
+2016_Q2,Federal,1106.5
+2016_Q3,Federal,1116.4
+2016_Q4,Federal,1119.8
+2017_Q1,Federal,1116.9
+2017_Q2,Federal,1124.6
+2017_Q3,Federal,1128.2
+2017_Q4,Federal,1148.0
+2018_Q1,Federal,1165.6
+2018_Q2,Federal,1183.8
+2018_Q3,Federal,1197.8
+2018_Q4,Federal,1207.9
+2019_Q1,Federal,1220.9
+2019_Q2,Federal,1241.8
+2019_Q3,Federal,1251.5
+2019_Q4,Federal,1264.4
+2020_Q1,Federal,1268.6
+2020_Q2,Federal,1318.0
+2015_Q1,General government,1000.9
+2015_Q2,General government,1003.1
+2015_Q3,General government,1002.3
+2015_Q4,General government,1008.2
+2016_Q1,General government,1010.8
+2016_Q2,General government,1010.9
+2016_Q3,General government,1023.7
+2016_Q4,General government,1027.3
+2017_Q1,General government,1025.0
+2017_Q2,General government,1033.0
+2017_Q3,General government,1037.4
+2017_Q4,General government,1056.2
+2018_Q1,General government,1072.7
+2018_Q2,General government,1091.3
+2018_Q3,General government,1106.2
+2018_Q4,General government,1115.7
+2019_Q1,General government,1129.6
+2019_Q2,General government,1150.8
+2019_Q3,General government,1160.7
+2019_Q4,General government,1172.9
+2020_Q1,General government,1175.7
+2020_Q2,General government,1225.3
+2015_Q1,National defense,616.0
+2015_Q2,National defense,614.4
+2015_Q3,National defense,609.8
+2015_Q4,National defense,612.9
+2016_Q1,National defense,612.2
+2016_Q2,National defense,609.1
+2016_Q3,National defense,619.8
+2016_Q4,National defense,621.9
+2017_Q1,National defense,619.7
+2017_Q2,National defense,628.2
+2017_Q3,National defense,628.2
+2017_Q4,National defense,638.9
+2018_Q1,National defense,645.4
+2018_Q2,National defense,659.7
+2018_Q3,National defense,670.3
+2018_Q4,National defense,678.1
+2019_Q1,National defense,690.2
+2019_Q2,National defense,702.4
+2019_Q3,National defense,709.8
+2019_Q4,National defense,719.9
+2020_Q1,National defense,721.5
+2020_Q2,National defense,719.5
+2015_Q1,Nondefense,384.9
+2015_Q2,Nondefense,388.7
+2015_Q3,Nondefense,392.4
+2015_Q4,Nondefense,395.2
+2016_Q1,Nondefense,398.6
+2016_Q2,Nondefense,401.8
+2016_Q3,Nondefense,403.9
+2016_Q4,Nondefense,405.4
+2017_Q1,Nondefense,405.4
+2017_Q2,Nondefense,404.9
+2017_Q3,Nondefense,409.2
+2017_Q4,Nondefense,417.3
+2018_Q1,Nondefense,427.3
+2018_Q2,Nondefense,431.5
+2018_Q3,Nondefense,436.0
+2018_Q4,Nondefense,437.6
+2019_Q1,Nondefense,439.4
+2019_Q2,Nondefense,448.3
+2019_Q3,Nondefense,450.9
+2019_Q4,Nondefense,453.1
+2020_Q1,Nondefense,454.3
+2020_Q2,Nondefense,505.8
+2015_Q1,Government enterprises,94.7
+2015_Q2,Government enterprises,94.1
+2015_Q3,Government enterprises,93.6
+2015_Q4,Government enterprises,93.8
+2016_Q1,Government enterprises,94.3
+2016_Q2,Government enterprises,95.7
+2016_Q3,Government enterprises,92.7
+2016_Q4,Government enterprises,92.5
+2017_Q1,Government enterprises,91.9
+2017_Q2,Government enterprises,91.6
+2017_Q3,Government enterprises,90.8
+2017_Q4,Government enterprises,91.8
+2018_Q1,Government enterprises,92.9
+2018_Q2,Government enterprises,92.6
+2018_Q3,Government enterprises,91.6
+2018_Q4,Government enterprises,92.2
+2019_Q1,Government enterprises,91.3
+2019_Q2,Government enterprises,91.0
+2019_Q3,Government enterprises,90.8
+2019_Q4,Government enterprises,91.4
+2020_Q1,Government enterprises,92.9
+2020_Q2,Government enterprises,92.7
+2015_Q1,State and local,2429.6
+2015_Q2,State and local,2462.2
+2015_Q3,State and local,2484.6
+2015_Q4,State and local,2494.9
+2016_Q1,State and local,2501.2
+2016_Q2,State and local,2531.7
+2016_Q3,State and local,2557.5
+2016_Q4,State and local,2577.4
+2017_Q1,State and local,2604.2
+2017_Q2,State and local,2618.9
+2017_Q3,State and local,2645.0
+2017_Q4,State and local,2682.4
+2018_Q1,State and local,2714.9
+2018_Q2,State and local,2746.1
+2018_Q3,State and local,2777.9
+2018_Q4,State and local,2801.7
+2019_Q1,State and local,2807.4
+2019_Q2,State and local,2834.8
+2019_Q3,State and local,2852.6
+2019_Q4,State and local,2873.0
+2020_Q1,State and local,2872.7
+2020_Q2,State and local,2727.0
+2015_Q1,General government,2105.1
+2015_Q2,General government,2135.8
+2015_Q3,General government,2156.0
+2015_Q4,General government,2164.7
+2016_Q1,General government,2169.6
+2016_Q2,General government,2197.1
+2016_Q3,General government,2220.3
+2016_Q4,General government,2237.7
+2017_Q1,General government,2261.0
+2017_Q2,General government,2272.6
+2017_Q3,General government,2296.5
+2017_Q4,General government,2331.2
+2018_Q1,General government,2360.1
+2018_Q2,General government,2388.0
+2018_Q3,General government,2417.1
+2018_Q4,General government,2437.2
+2019_Q1,General government,2440.6
+2019_Q2,General government,2463.4
+2019_Q3,General government,2479.0
+2019_Q4,General government,2497.9
+2020_Q1,General government,2499.9
+2020_Q2,General government,2380.9
+2015_Q1,Government enterprises,324.4
+2015_Q2,Government enterprises,326.4
+2015_Q3,Government enterprises,328.7
+2015_Q4,Government enterprises,330.2
+2016_Q1,Government enterprises,331.6
+2016_Q2,Government enterprises,334.6
+2016_Q3,Government enterprises,337.3
+2016_Q4,Government enterprises,339.7
+2017_Q1,Government enterprises,343.2
+2017_Q2,Government enterprises,346.3
+2017_Q3,Government enterprises,348.5
+2017_Q4,Government enterprises,351.2
+2018_Q1,Government enterprises,354.8
+2018_Q2,Government enterprises,358.2
+2018_Q3,Government enterprises,360.9
+2018_Q4,Government enterprises,364.5
+2019_Q1,Government enterprises,366.8
+2019_Q2,Government enterprises,371.4
+2019_Q3,Government enterprises,373.5
+2019_Q4,Government enterprises,375.1
+2020_Q1,Government enterprises,372.8
+2020_Q2,Government enterprises,346.0

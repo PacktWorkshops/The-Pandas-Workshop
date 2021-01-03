@@ -1,0 +1,13 @@
+brand,type,sales,units,year
+Pandas,Product A,476,46,2010
+Pandas,Product B,794,39,2010
+Pandas,Product C,199,62,2010
+Pandas,Product A,686,26,2011
+Pandas,Product B,207,93,2011
+Pandas,Product C,199,62,2011
+Python,Product A,300,33,2010
+Python,Product B,949,51,2010
+Python,Product C,168,30,2010
+Python,Product A,921,51,2011
+Python,Product B,266,24,2011
+Python,Product C,674,39,2011

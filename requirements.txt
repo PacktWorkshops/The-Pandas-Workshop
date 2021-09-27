@@ -62,6 +62,7 @@ pycountry-convert==0.7.2
 pycparser==2.20
 Pygments==2.7.2
 pyparsing==2.4.7
+pyreadstat==1.1.2
 pyrsistent==0.17.3
 pytest==6.2.1
 pytest-cov==2.10.1

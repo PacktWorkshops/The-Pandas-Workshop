@@ -43,8 +43,10 @@ nbformat==5.0.8
 nest-asyncio==1.4.1
 notebook==6.1.4
 numpy==1.15.4
+openpyxl==3.0.9
 packaging==20.4
 pandas==1.1.5
+pandas-read-xml==0.3.0
 pandocfilters==1.4.3
 parso==0.7.1
 pickleshare==0.7.5

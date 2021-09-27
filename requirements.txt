@@ -34,6 +34,7 @@ jupyter-console==6.2.0
 jupyter-core==4.6.3
 jupyterlab-pygments==0.1.2
 kiwisolver==1.2.0
+lxml==4.6.3
 MarkupSafe==1.1.1
 matplotlib==3.3.3
 mistune==0.8.4
@@ -82,7 +83,7 @@ terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
 toml==0.10.2
-tornado==6.0.4
+tornado==6.1.0
 traitlets==5.0.5
 urllib3==1.26.3
 wcwidth==0.2.5

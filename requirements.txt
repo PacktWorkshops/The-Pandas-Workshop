@@ -34,6 +34,7 @@ jupyter-console==6.2.0
 jupyter-core==4.6.3
 jupyterlab-pygments==0.1.2
 kiwisolver==1.2.0
+lxml==4.6.3
 MarkupSafe==1.1.1
 matplotlib==3.3.3
 mistune==0.8.4
@@ -43,8 +44,10 @@ nbformat==5.0.8
 nest-asyncio==1.4.1
 notebook==6.1.4
 numpy==1.15.4
+openpyxl==3.0.9
 packaging==20.4
 pandas==1.1.5
+pandas-read-xml==0.3.0
 pandocfilters==1.4.3
 parso==0.7.1
 pickleshare==0.7.5
@@ -59,6 +62,7 @@ pycountry-convert==0.7.2
 pycparser==2.20
 Pygments==2.7.2
 pyparsing==2.4.7
+pyreadstat==1.1.2
 pyrsistent==0.17.3
 pytest==6.2.1
 pytest-cov==2.10.1
@@ -76,13 +80,14 @@ scipy==1.4.1
 seaborn==0.10.1
 Send2Trash==1.5.0
 six==1.15.0
+tables==3.6.1
 terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
 toml==0.10.2
-tornado==6.0.4
+tornado==6.1.0
 traitlets==5.0.5
-urllib3==1.26.2
+urllib3==1.26.3
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1

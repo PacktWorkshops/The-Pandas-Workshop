@@ -68,7 +68,7 @@ is a data scientist and a passionate programmer. Having worked with multiple ind
 **Thomas V. Joseph**
 is a data science practitioner, researcher, trainer, mentor, and writer with more than 19 years of experience. He has extensive experience in solving business problems using machine learning toolsets across multiple industry segments.
 
-**William**
-So is a Data Scientist with both a strong academic background and extensive professional experience. He is currently the Head of Data Science at Douugh and also a Lecturer for Master of Data Science and Innovation at the University of Technology Sydney.
+**William So**
+is a Data Scientist with both a strong academic background and extensive professional experience. He is currently the Head of Data Science at Douugh and also a Lecturer for Master of Data Science and Innovation at the University of Technology Sydney.
 During his career, he successfully covered the end-end spectrum of data analytics from ML to Business Intelligence helping stakeholders derive valuable insights and achieve amazing results that benefits the business.
 William is a co-author of the "The Applied Artificial Intelligence Workshop" published by Packt.

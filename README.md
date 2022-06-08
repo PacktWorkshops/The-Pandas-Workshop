@@ -56,7 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Hands-On Data Analysis with Pandas, Second Edition [[Packt]](https://www.packtpub.com/product/hands-on-data-analysis-with-pandas-second-edition/9781800563452?utm_source=github&utm_medium=repository&utm_campaign=9781800563452) [[Amazon]](https://www.amazon.com/dp/1800563450)
 
-* Data Analysis Crash Course for Beginners[[Packt]](https://www.packtpub.com/product/data-analysis-crash-course-for-beginners-pandas-python-video/9781803242354?utm_source=github&utm_medium=repository&utm_campaign=9781803242354) 
+* Data Analysis Crash Course for Beginners [[Packt]](https://www.packtpub.com/product/data-analysis-crash-course-for-beginners-pandas-python-video/9781803242354?utm_source=github&utm_medium=repository&utm_campaign=9781803242354) 
 
 ## Get to Know the Authors
 **Blaine Bateman**

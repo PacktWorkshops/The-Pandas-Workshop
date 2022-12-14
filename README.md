@@ -44,7 +44,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                    | OS required                        |
 | -------- | ------------------------------------ | -----------------------------------|
-| 1-14	   | Python 9.x                            | Windows, Mac OS X, and Linux (Any) |
+| 1-14	   | Python 3.9.x                            | Windows, Mac OS X, and Linux (Any) |
 | 1-14	   | Jupyter 1.0.0                         |                                    |
 | 1-14	   | pandas 1.3                            |                                    |
 | 1-14     | matplotlib 3.3                       |                                    |

@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
+
 # The Pandas Workshop
 
 <a href="https://www.packtpub.com/product/the-pandas-workshop/9781800208933?utm_source=github&utm_medium=repository&utm_campaign=9781800208933"><img src="https://static.packt-cdn.com/products/9781800208933/cover/smaller" alt="The Pandas Workshop" height="256px" align="right"></a>

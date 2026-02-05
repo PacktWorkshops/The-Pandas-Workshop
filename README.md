@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
+
 # The Pandas Workshop
 
 <a href="https://www.packtpub.com/product/the-pandas-workshop/9781800208933?utm_source=github&utm_medium=repository&utm_campaign=9781800208933"><img src="https://static.packt-cdn.com/products/9781800208933/cover/smaller" alt="The Pandas Workshop" height="256px" align="right"></a>
